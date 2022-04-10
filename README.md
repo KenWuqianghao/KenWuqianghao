@@ -14,10 +14,10 @@
 </p>
 
 ## :sassy_man:  About me
-- :school: Currentt Student at American School of Milan
+- :school: Currentt Student at [American School of Milan](https://www.asmilan.org/)
 - :technologist: Love Python and ML, I also know some front end development including Angular, Typescript, etc 
-- :computer: I love unix systems, enjoy trying out different linux distros, but currently using Mac, don't worry we got [linux](https://asahilinux.org/about/) too.
-- :thinking: Thinking about going into Web3 Development, Data Engineering and Quantitative Finance
+- :computer: I love Unix systems, enjoy trying out different linux distros, but currently using Mac. Don't worry we got [linux](https://asahilinux.org/about/) too.
+- :thinking: Thinking about going into Web3 Development, Defi, Data Engineering and Quantitative Finance
 - :nerd_face: I'm always curious to learn more, don't hesistate to reach out to me if you have any fun projects that needs help
 - :spider_web: Read more about me on my [portofil website](https://kenwu.is-a.dev/) (Probably still under construction)
 
@@ -66,5 +66,7 @@
 &emsp;
 <a target="_blank" href="https://medium.com/@wooqianghao"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
 
+<br>
 Made by Ken with Love 💙
+<br>
 Many thanks to awesome [Awesome GitHub Profile README ](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
