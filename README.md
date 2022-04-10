@@ -11,7 +11,7 @@
 - :nerd_face:
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,ts,python,c++,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,ts,python,cpp,tensorflow&theme=dark)](https://skillicons.dev)
 
 <br>
 
