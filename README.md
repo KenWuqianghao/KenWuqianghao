@@ -10,7 +10,8 @@
 - :thinking:
 - :nerd_face:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,ts,python,c++,tensorflow)](https://skillicons.dev)
 
 <br>
 
@@ -37,12 +38,12 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KenWuqianghao&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KenWuqianghao&custom_title=Ken's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 <br/>
 
-## Connect With Me
+## 🔗 Connect With Me
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/qianghao-wu-798246204/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
