@@ -14,13 +14,12 @@
 </p>
 
 ## :sassy_man:  About me
-- :school:
-- :trophy: 
-- :technologist: 
-- :computer: 
-- :student: 
-- :thinking:
-- :nerd_face:
+- :school: Currentt Student at American School of Milan
+- :technologist: Love Python and ML, I also know some front end development including Angular, Typescript, etc 
+- :computer: I love unix systems, enjoy trying out different linux distros, but currently using Mac, don't worry we got [linux](https://asahilinux.org/about/) too.
+- :thinking: Thinking about going into Web3 Development, Data Engineering and Quantitative Finance
+- :nerd_face: I'm always curious to learn more, don't hesistate to reach out to me if you have any fun projects that needs help
+- :spider_web Read more about me on my [portofil website](https://kenwu.is-a.dev/) (Probably still under construction)
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=kenwuqianghao&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/KenWuqianghao)
 
