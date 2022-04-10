@@ -10,8 +10,8 @@
 - :thinking:
 - :nerd_face:
 
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,ts,python,cpp,tensorflow&theme=dark)](https://skillicons.dev)
+## ⚒ Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,cpp,angular,python,tensorflow&theme=dark)](https://skillicons.dev)
 
 <br>
 
