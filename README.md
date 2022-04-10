@@ -43,7 +43,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/KenWuqianghao"><img alt="Ken's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KenWuqianghao&custom_title=Ken's%20Contribution%20" /></a>
+   <a href="https://github.com/KenWuqianghao"><img alt="Ken's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KenWuqianghao&custom_title=Ken's%20Contribution%20&theme=rogue" /></a>
   <br/>
 
 <br/>
