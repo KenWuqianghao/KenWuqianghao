@@ -69,4 +69,4 @@
 <br>
 Made by Ken with Love 💙
 <br>
-Many thanks to awesome [Awesome GitHub Profile README ](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+Many thanks to [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
