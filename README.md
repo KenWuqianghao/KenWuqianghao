@@ -19,7 +19,7 @@
 - :computer: I love unix systems, enjoy trying out different linux distros, but currently using Mac, don't worry we got [linux](https://asahilinux.org/about/) too.
 - :thinking: Thinking about going into Web3 Development, Data Engineering and Quantitative Finance
 - :nerd_face: I'm always curious to learn more, don't hesistate to reach out to me if you have any fun projects that needs help
-- :spider_web Read more about me on my [portofil website](https://kenwu.is-a.dev/) (Probably still under construction)
+- :spider_web: Read more about me on my [portofil website](https://kenwu.is-a.dev/) (Probably still under construction)
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=kenwuqianghao&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/KenWuqianghao)
 
@@ -65,3 +65,6 @@
 <a target="_blank" href="https://twitter.com/Kenwuqianghao"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="https://medium.com/@wooqianghao"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
+
+Made by Ken with Love 💙
+Many thanks to awesome [Awesome GitHub Profile README ](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
