@@ -2,7 +2,7 @@
 <p align="center">
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/KenWuqianghao" alt="Profile Views"> •  
+  <img src="https://komarev.com/ghpvc/?username=kenwuqianghao&color=blue" alt="Profile Views"> •  
   <img alt="Github Follower" src="https://img.shields.io/github/followers/KenWuqianghao?label=Followers"> •   
   <img src="https://img.shields.io/github/stars/KenWuqianghao?label=Stars" alt="Total Stars">• 
   <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Score&style=flat&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar.herokuapp.com%2Fapi%2Fkenwuqianghao" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚂𝚌𝚘𝚛𝚎">
