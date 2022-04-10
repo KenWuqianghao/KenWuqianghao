@@ -24,12 +24,11 @@
 <br>
 
 ## 📊 Github Stats
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
 <br/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kenwuqianghao&show_icons=true&theme=tokyonight">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenwuqianghao&theme=tokyonight" alt="KenWu"/>
+  <br>
   <img alt="Ken's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KenWuqianghao&custom_title=Ken's%20Contribution%20&theme=rogue"/>
 </p>
 
