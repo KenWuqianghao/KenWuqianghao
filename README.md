@@ -67,7 +67,6 @@
 <a target="_blank" href="https://medium.com/@wooqianghao"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
 
 ## Credit
-
-<p>Made by Ken with Love 💙</p>
+Made by Ken with Love 💙
 <br>
-<p>Many thanks to [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme)</p>
+Many thanks to [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
