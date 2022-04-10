@@ -34,10 +34,11 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
 <br/>
 <a href='https://github.com/kenwuqianghao/github-stats-transparent'>
-![Stats Overview](https://raw.githubusercontent.com/kenwuqianghao/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/kenwuqianghao/github-stats-transparent/output/generated/languages.svg)
+  ![Stats Overview](https://raw.githubusercontent.com/kenwuqianghao/github-stats-transparent/output/generated/overview.svg)
+  ![Most Used Languages](https://raw.githubusercontent.com/kenwuqianghao/github-stats-transparent/output/generated/languages.svg)
 </a>
- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<br>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 ----
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
