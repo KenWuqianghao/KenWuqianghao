@@ -14,7 +14,7 @@
 - :computer: I love Unix systems, enjoy trying out different linux distros, but currently using Mac. Don't worry we got [linux](https://asahilinux.org/about/) too.
 - :thinking: Thinking about going into Web3 Development, Defi, Data Engineering and Quantitative Finance
 - :nerd_face: I'm always curious to learn more, don't hesistate to reach out to me if you have any fun projects that needs help
-- :spider_web: Read more about me on my [portofil website](https://kenwu.is-a.dev/) (Probably still under construction)
+- :spider_web: Read more about me on my [website](https://kenwu.is-a.dev/) (Probably still under construction)
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=kenwuqianghao&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/KenWuqianghao)
 
