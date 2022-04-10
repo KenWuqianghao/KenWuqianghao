@@ -33,12 +33,12 @@
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="KenWu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KenWuqianghao&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kenwuqianghao&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="KenWu" height="192px"/>
-  <br/>
+  <a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+
+</a>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 
