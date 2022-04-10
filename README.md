@@ -24,7 +24,6 @@
 <br>
 
 ## 📊 Github Stats
-<br/>
 ### 📈 General Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kenwuqianghao&show_icons=true&theme=tokyonight">
