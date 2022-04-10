@@ -34,7 +34,8 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
 <br/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kenwuqianghao&show_icons=true&theme=tokyonight"> •  
+  <img src="https://github-readme-stats.vercel.app/api?username=kenwuqianghao&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=kenwuqianghao&show_icons=true&theme=tokyonight">
 </p>
 
 <br>
@@ -43,7 +44,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/KenWuqianghao"><img alt="Ken's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KenWuqianghao&custom_title=Ken's%20Contribution%20&theme=rogue" /></a>
+   <a href="https://github.com/KenWuqianghao"><img alt="Ken's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KenWuqianghao&custom_title=Ken's%20Contribution%20&theme=rogue"/></a>
   <br/>
 
 <br/>
