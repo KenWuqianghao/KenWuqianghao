@@ -23,31 +23,20 @@
 
 <br>
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kenwuqianghao&theme=tokyonight" alt="KenWu" /></p>
-
-<br>
-<br>
-
 ## 📊 Github Stats
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
 <br/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kenwuqianghao&show_icons=true&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenwuqianghao&theme=tokyonight&layout=compact">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenwuqianghao&theme=tokyonight" alt="KenWu"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenwuqianghao&theme=tokyonight">
+  <img alt="Ken's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KenWuqianghao&custom_title=Ken's%20Contribution%20&theme=rogue"/>
 </p>
 
 <br>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 ----
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/KenWuqianghao"><img alt="Ken's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KenWuqianghao&custom_title=Ken's%20Contribution%20&theme=rogue"/></a>
-  <br/>
-
-<br/>
 
 ## 🔗 Connect With Me
 <br>	
