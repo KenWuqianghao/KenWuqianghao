@@ -24,7 +24,7 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kenwuqianghao&theme=algolia" alt="KenWu" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kenwuqianghao" alt="KenWu" /></p>
 
 <br>
 <br>
@@ -32,16 +32,12 @@
 ## 📊 Github Stats
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
-
+<br/>
+<a href='https://github.com/kenwuqianghao/github-stats-transparent'>
+![Stats Overview](https://raw.githubusercontent.com/kenwuqianghao/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/kenwuqianghao/github-stats-transparent/output/generated/languages.svg)
 </a>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-
+ <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 ----
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
