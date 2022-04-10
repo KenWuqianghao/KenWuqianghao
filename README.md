@@ -6,3 +6,19 @@
 	
 </p>
 
+## :sassy_man:  About me
+- :school:
+- :trophy: 
+- :technologist: 
+- :computer: 
+- :student: 
+- :thinking:
+- :nerd_face:
+
+<br>
+
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kenwuqianghao&theme=algolia" alt="KenWuqianghao" /></p>
+
+<br>
+<br>
