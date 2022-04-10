@@ -13,6 +13,8 @@
   </code>
 </p>
 
+![](https://gitwar.herokuapp.com/badge?username=kenwuqianghao)
+
 ## :sassy_man:  About me
 - :school: Currentt Student at [American School of Milan](https://www.asmilan.org/)
 - :technologist: Love Python and ML, I also know some front end development including Angular, Typescript, etc 
