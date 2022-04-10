@@ -3,8 +3,6 @@
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=kenwuqianghao&label=Profile%20views&color=0e75b6&style=plastic" alt="Kenwuqianghao" /> 
-	<a href = "https://commits.top/italy.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="kenwuqianghao" target="_blank"/> 
-	</a>
+	
 </p>
 
