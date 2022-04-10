@@ -3,7 +3,7 @@
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=kenwuqianghao&label=Profile%20views&color=0e75b6&style=plastic" alt="Kenwuqianghao" /> 
-	
+	[![HitCount](http://hits.dwyl.com/ABSphreak/KenWuqianghao.svg)](http://hits.dwyl.com/KenWuqianghao/KenWuqianghao)
 </p>
 
 ## :sassy_man:  About me
