@@ -33,10 +33,10 @@
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
 <br/>
-<a href='https://github.com/kenwuqianghao/github-stats-transparent'>
-  ![Stats Overview](https://raw.githubusercontent.com/kenwuqianghao/github-stats-transparent/output/generated/overview.svg)
-  ![Most Used Languages](https://raw.githubusercontent.com/kenwuqianghao/github-stats-transparent/output/generated/languages.svg)
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kenwuqianghao&show_icons=true&theme=tokyonight"> •  
+</p>
+
 <br>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 ----
