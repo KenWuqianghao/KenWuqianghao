@@ -5,6 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=kenwuqianghao&color=blue" alt="Profile Views"> •  
   <img alt="Github Follower" src="https://img.shields.io/github/followers/KenWuqianghao?label=Followers"> •   
   <img src="https://img.shields.io/github/stars/KenWuqianghao?label=Stars" alt="Total Stars">• 
+  <img src="https://wakatime.com/badge/user/18266663-336a-4c7c-a4e7-ab2825619edb.svg" alt="Wakatime"/>•
   <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Score&style=flat&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar.herokuapp.com%2Fapi%2Fkenwuqianghao" alt="Gitwar Score">
 </p>
 
