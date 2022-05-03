@@ -13,8 +13,8 @@
 - :school: Currentt Student at [American School of Milan](https://www.asmilan.org/)
 - :technologist: Love Python and ML, I also know some front end development including Angular, Typescript, etc 
 - :computer: I love Unix systems, enjoy trying out different linux distros, but currently using Mac. Don't worry we got [linux](https://asahilinux.org/about/) too.
-- :thinking: Thinking about going into Web3 Development, Defi, Data Engineering and Quantitative Finance
-- :nerd_face: I'm always curious to learn more, don't hesistate to reach out to me if you have any fun projects that needs help
+- :thinking: Thinking about going into Web3 Development, DeFi, Data Science and Quantitative Finance
+- :nerd_face: I'm always curious to learn more, don't hesistate to reach out to me if you have any fun projects
 - :spider_web: Read more about me on my [website](https://kenwu.is-a.dev/) (Probably still under construction)
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=kenwuqianghao&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/KenWuqianghao)
