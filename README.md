@@ -11,7 +11,7 @@
 
 ## :sassy_man:  About me
 - :school: Current Student at [American School of Milan](https://www.asmilan.org/)
-- :construction_worker Current Intern at [delphai](https://www.delphai.com/)
+- :construction_worker: Current Intern at [delphai](https://www.delphai.com/)
 - :technologist: Love Python and ML. I also know some front end development including Angular, Typescript, etc 
 - :computer: I love Unix systems, enjoy trying out different linux distros, but currently using Mac. Don't worry we got [Linux](https://asahilinux.org/about/) too
 - :thinking: Thinking about going into Web3 Development, DeFi, Data Science and Quantitative Finance
