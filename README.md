@@ -10,7 +10,7 @@
 </p>
 
 ## :sassy_man:  About me
-- :school: Incoming Students at [Wilfrid Laurier University]([url](https://www.wlu.ca/)) for Business Administration and [University of Waterloo]([url](https://uwaterloo.ca/)) for Computer Science.
+- :school: Incoming Students at [Wilfrid Laurier University](https://www.wlu.ca/)) for Business Administration and [University of Waterloo](https://uwaterloo.ca/)) for CS.
 - :construction_worker: Current Intern at [delphai](https://www.delphai.com/)
 - :technologist: I love Python and ML. I also know some front end development including Angular, Typescript, etc 
 - :computer: I love Unix systems, enjoy trying out different linux distros, but currently using Mac. Don't worry we got [Linux](https://asahilinux.org/about/) too
