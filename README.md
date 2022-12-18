@@ -48,13 +48,13 @@
 
 ### 🏃 Recent Activities
 <p align="center">
-  <img alt="Ken's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KenWuqianghao&custom_title=Ken's%20Contribution%20&theme=rogue](https://github-readme-activity-graph.cyclic.app/graph?username=kenwuqianghao&theme=github">
+  <img alt="Ken's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=kenwuqianghao&theme=github"/>
 </p>
 <br>
 
 ### 🎵 Music
 <p align="center">
-   <img alt="🍎 Apple Music I'm Listening To"src="https://github-profile-apple-music.web.app/api/v1/users/jVU8TbMMXxc9EISHIyb6/recent/played/tracks" alt="KenWu"/>
+   <img src="https://github-profile-apple-music.web.app/api/v1/users/jVU8TbMMXxc9EISHIyb6/recent/played/tracks" alt="KenWu"/>
 </p>
 
 ## 🔗 Connect With Me
