@@ -52,6 +52,9 @@
 </p>
 <br>
 
+### 🎵 Music
+[https://github-profile-apple-music.web.app/api/v1/users/jVU8TbMMXxc9EISHIyb6/recent/played/tracks](https://github-profile-apple-music.web.app/api/v1/users/jVU8TbMMXxc9EISHIyb6/recent/played/tracks)
+
 ## 🔗 Connect With Me
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/qianghao-wu-798246204/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
