@@ -50,7 +50,6 @@
 <p align="center">
   <img alt="Ken's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=kenwuqianghao&theme=github"/>
 </p>
-<br>
 
 ### 🎵 Music
 <p align="center">
