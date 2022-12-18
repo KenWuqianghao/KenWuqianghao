@@ -52,9 +52,9 @@
 </p>
 <br>
 
-### 🎵 Music I'm Listening To
+### 🎵 Music
 <p align="center">
-   <img src="https://github-profile-apple-music.web.app/api/v1/users/jVU8TbMMXxc9EISHIyb6/recent/played/tracks" alt="KenWu"/>
+   <img alt="🍎 Apple Music I'm Listening To"src="https://github-profile-apple-music.web.app/api/v1/users/jVU8TbMMXxc9EISHIyb6/recent/played/tracks" alt="KenWu"/>
 </p>
 
 ## 🔗 Connect With Me
