@@ -48,7 +48,7 @@
 
 ### 🏃 Recent Activities
 <p align="center">
-  <img alt="Ken's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KenWuqianghao&custom_title=Ken's%20Contribution%20&theme=rogue">
+  <img alt="Ken's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KenWuqianghao&custom_title=Ken's%20Contribution%20&theme=rogue](https://github-readme-activity-graph.cyclic.app/graph?username=kenwuqianghao&theme=github">
 </p>
 <br>
 
