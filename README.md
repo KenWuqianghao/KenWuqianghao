@@ -53,7 +53,9 @@
 <br>
 
 ### 🎵 Music
-[https://github-profile-apple-music.web.app/api/v1/users/jVU8TbMMXxc9EISHIyb6/recent/played/tracks](https://github-profile-apple-music.web.app/api/v1/users/jVU8TbMMXxc9EISHIyb6/recent/played/tracks)
+<p align="center">
+   <img src="https://github-profile-apple-music.web.app/api/v1/users/jVU8TbMMXxc9EISHIyb6/recent/played/tracks" alt="KenWu"/>
+</p>
 
 ## 🔗 Connect With Me
 <br>	
