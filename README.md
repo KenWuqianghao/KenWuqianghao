@@ -14,7 +14,6 @@
 ## :sassy_man:  About me
 - :school: Students at [University of Waterloo](https://uwaterloo.ca/) for CS and [Wilfrid Laurier University](https://www.wlu.ca/) for BBA
 - :technologist: I love Python and ML. I also know some front end development including Angular, Typescript, etc 
-- :computer: I love Unix systems, enjoy trying out different linux distros, but currently using Mac. Don't worry we got [Linux](https://asahilinux.org/about/) too
 - :thinking: Thinking about going into Web3 Development, DeFi, Data Science and Quantitative Finance
 - :nerd_face: I'm always curious to learn more, don't hesitate to reach out to me if you have any fun projects
 - :spider_web: Read more about me on my [website](https://kenwu.is-a.dev/)
