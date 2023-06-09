@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/github/stars/KenWuqianghao?label=Stars" alt="Total Stars">• 
   <img src="https://wakatime.com/badge/user/dc9f3a76-8cfd-40d2-bc95-0afa3e00ab35.svg" alt="wakatime" />•
   <img src="https://img.shields.io/badge/dynamic/json?label=Gitwar%20Score&style=flat&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar.herokuapp.com%2Fapi%2Fkenwuqianghao" alt="Gitwar Score">
+  <img src="https://lichess-readme.vercel.app/?">
 </p>
 
 ## :sassy_man:  About me
