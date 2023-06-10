@@ -57,6 +57,11 @@
    <img src="https://apple-music-readme-azure.vercel.app/?">
 </p>
 
+### ♟️ Chess Game I'm Playing on Lichess
+<p align="center">
+   <img src="https://lichess-game-readme-a43v.vercel.app/?">
+</p>
+
 ## 🔗 Connect With Me
 <br>
 <a target="_blank" href="mailto:wooqianghao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
