@@ -62,7 +62,7 @@
    <img src="https://lichess-game-readme.vercel.app/?">
 </p>
 
-### ♟️ Chess Game I'm Playing on Lichess
+### ♟️ Chess Game I'm Playing on Chess.com
 <p align="center">
    <img src="https://chess-com-game-readme-cottfeqwe-wooqianghao-gmailcom.vercel.app/?">
 </p>
