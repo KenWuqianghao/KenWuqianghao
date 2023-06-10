@@ -59,7 +59,12 @@
 
 ### ♟️ Chess Game I'm Playing on Lichess
 <p align="center">
-   <img src="https://lichess-game-readme-a43v.vercel.app/?">
+   <img src="https://lichess-game-readme.vercel.app/?">
+</p>
+
+### ♟️ Chess Game I'm Playing on Lichess
+<p align="center">
+   <img src="https://chess-com-game-readme-cottfeqwe-wooqianghao-gmailcom.vercel.app/?">
 </p>
 
 ## 🔗 Connect With Me
