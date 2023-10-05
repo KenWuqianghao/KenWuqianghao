@@ -22,7 +22,7 @@
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=kenwuqianghao&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/KenWuqianghao)
 
 ## :hammer_and_pick: Skills
-[![My Skills](https://skillicons.dev/icons?i=linux,vscode,python,tensorflow,docker,cpp,ts,js,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,vscode,python,tensorflow,pytorch,docker,c,cpp,bash,flask,django,mysql,r,ts,js,html,css,pug,vim,git,github,latex&theme=dark)](https://skillicons.dev)
 
 <br>
 
