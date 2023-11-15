@@ -64,7 +64,7 @@
 
 ### ♟️ Chess Game I'm Playing on Chess.com
 <p align="center">
-   <img src="https://chess-com-game-readme-cottfeqwe-wooqianghao-gmailcom.vercel.app/?">
+   <img src="https://chess-com-game-readme.vercel.app/?">
 </p>
 
 ## 🔗 Connect With Me
