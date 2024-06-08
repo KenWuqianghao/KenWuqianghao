@@ -79,7 +79,3 @@
 Made by Ken with Love 💙
 <br>
 Many thanks to [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -15; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: 100% auto; background-repeat: no-repeat; width: 100%; opacity: 0.5; background: url('https://github.com/KenWuqianghao/KenWuqianghao/blob/main/Lifeline.jpeg?raw=true');]{x0000}$}
-```
