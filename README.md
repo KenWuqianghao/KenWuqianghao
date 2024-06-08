@@ -12,6 +12,9 @@
   <img src="https://chess-com-read-me.vercel.app/?">
 </p>
 
+<br>
+<br>
+
 ## :sassy_man:  About me
 - :school: Student at [University of Waterloo](https://uwaterloo.ca/) for CS
 - :technologist: I love Python and ML. I also know some front end development including Angular, Typescript, etc 
