@@ -57,7 +57,7 @@
 
 ### 🎵 Music I'm Listening To
 <p align="center">
-   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=wuqianghao&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=wuqianghao&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true">
+   <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=wuqianghao&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=wuqianghao&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true">
 </p>
 
 ### ♟️ Chess Game I'm Playing on Lichess
