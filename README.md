@@ -60,6 +60,11 @@
    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=wuqianghao&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=wuqianghao&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true">
 </p>
 
+### 🎮 Video Games I'm Playing
+<p align="center">
+   <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199316627566">
+</p>
+
 ### ♟️ Chess Game I'm Playing on Lichess
 <p align="center">
    <img src="https://lichess-game-readme.vercel.app/?">
