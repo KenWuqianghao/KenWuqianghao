@@ -42,13 +42,6 @@
 </p>
 <br>
 
-### 🗣️ Top Languages
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenwuqianghao&theme=tokyonight" alt="KenWu"/>
-</p>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br>
-
 ### 🏃 Recent Activities
 <p align="center">
   <img alt="Ken's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kenwuqianghao&theme=github"/>
