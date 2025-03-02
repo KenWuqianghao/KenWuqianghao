@@ -16,7 +16,7 @@
 <br>
 
 ## :sassy_man:  About me
-- :school: Student @[University of Waterloo](https://uwaterloo.ca/) for CS, Currently Exchanging @[Lancaster University]((https://www.lancaster.ac.uk/))
+- :school: Student @ [University of Waterloo](https://uwaterloo.ca/) for CS, Currently Exchanging @ [Lancaster University](https://www.lancaster.ac.uk/)
 - :technologist: I love Python and ML. I also know some front-end development including React, Javascript, Typescript, etc 
 - :thinking: Curious to learn more about ML, LLM and mobile development. Contemplating whether I should go into academia or the startup space. 
 - :nerd_face: I'm always curious to learn more, don't hesitate to reach out to me if you have any fun projects
