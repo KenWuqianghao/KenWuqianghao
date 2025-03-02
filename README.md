@@ -16,9 +16,9 @@
 <br>
 
 ## :sassy_man:  About me
-- :school: Student at [University of Waterloo](https://uwaterloo.ca/) for CS
-- :technologist: I love Python and ML. I also know some front end development including Angular, Typescript, etc 
-- :thinking: Thinking about going into Web3 Development, DeFi, Data Science and Quantitative Finance
+- :school: Student @[University of Waterloo](https://uwaterloo.ca/) for CS, Currently Exchanging @[Lancaster University]((https://www.lancaster.ac.uk/))
+- :technologist: I love Python and ML. I also know some front-end development including React, Javascript, Typescript, etc 
+- :thinking: Curious to learn more about ML, LLM and mobile development. Contemplating whether I should go into academia or the startup space. 
 - :nerd_face: I'm always curious to learn more, don't hesitate to reach out to me if you have any fun projects
 - :spider_web: Read more about me on my [website](https://kenwu.is-a.dev/)
 
