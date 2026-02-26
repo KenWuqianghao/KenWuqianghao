@@ -1,22 +1,25 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F24976,50:E8656A,100:F0A050&height=160&section=header&text=Ken%20Wu&fontSize=50&fontAlignY=35&fontColor=ffffff&animation=fadeIn" width="100%" />
+
 <div align="center">
 
-# Ken Wu
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1500&color=E8567C&center=true&vCenter=true&repeat=true&width=520&height=45&lines=CS+%40+University+of+Waterloo+%C2%B7+ML+%2F+Systems+%2F+LLMs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=20&duration=3000&pause=1500&color=E8567C&center=true&vCenter=true&repeat=true&width=700&height=45&lines=CS+%40+University+of+Waterloo+%C2%B7+Machine+Learning+%2F+Systems+%2F+LLMs" alt="Typing SVG" />
 
 <br>
 
 <a href="https://kenwu.is-a.dev/">
-<img src="https://img.shields.io/badge/kenwu.is--a.dev-0d1117?style=flat&logo=safari&logoColor=E8567C" />
-</a>&nbsp;
+<img src="https://img.shields.io/badge/Website-0d1117?style=flat&logo=safari&logoColor=E8567C" />
+</a>
 <a href="https://www.linkedin.com/in/kenwuu/">
 <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=E8567C" />
-</a>&nbsp;
+</a>
 <a href="mailto:ken.wu@uwaterloo.ca">
 <img src="https://img.shields.io/badge/Email-0d1117?style=flat&logo=gmail&logoColor=E8567C" />
-</a>&nbsp;
+</a>
 <a href="https://twitter.com/Kenwuqianghao">
 <img src="https://img.shields.io/badge/Twitter-0d1117?style=flat&logo=x&logoColor=E8567C" />
+</a>
+<a href="https://drive.google.com/file/d/11TiGQ-JxqmLQ-TJ24Jui8V9kXsI6QZld/view">
+<img src="https://img.shields.io/badge/Resume-0d1117?style=flat&logo=adobeacrobatreader&logoColor=E8567C" />
 </a>
 
 </div>
@@ -33,39 +36,39 @@ CS student at the **University of Waterloo** (graduating 2026) with a business s
 
 <table>
 <tr>
-<td width="160"><img src="https://github.com/nokia.png?size=40" width="16" height="16" style="border-radius:3px" /> <b>Nokia</b></td>
-<td width="180">Software Engineer Intern</td>
-<td>LoRA fine-tuning pipeline for 5G network agents · PyTorch, Unsloth, Transformer</td>
+<td><b>Nokia</b></td>
+<td>Software Engineer Intern</td>
+<td>Built LoRA fine-tuning pipeline for Qwen generating Camunda BPMN XML with GGUF quantization · PyTorch, Unsloth, Transformer</td>
 </tr>
 <tr>
-<td><img src="https://logo.clearbit.com/td.com" width="16" height="16" style="border-radius:3px" /> <b>TD Bank</b></td>
+<td><b>TD Bank</b></td>
 <td>Data Scientist Intern</td>
-<td>Replatformed 1.5M+ row pipelines on Databricks · PySpark, Pandas, SQL</td>
+<td>Replatformed pipelines for 1.5M+ rows, automated 30+ min of manual ingestion per cycle, migrated on-prem to Azure · PySpark, Pandas, Databricks</td>
 </tr>
 <tr>
-<td><img src="https://github.com/stanford.png?size=40" width="16" height="16" style="border-radius:3px" /> <b>Stanford</b></td>
+<td><b>Stanford University</b></td>
 <td>Student Instructor</td>
-<td>Taught CS106A (Code in Place) to 40,000+ students globally</td>
+<td>Taught Stanford's Code in Place CS106A to 40,000+ students globally · Python, Karel, Tkinter</td>
 </tr>
 <tr>
-<td><img src="https://logo.clearbit.com/tryaugust.com" width="16" height="16" style="border-radius:3px" /> <b>August</b></td>
+<td><b>August</b></td>
 <td>Software Engineer Intern</td>
-<td>Multi-agent RAG pipeline, 2000+ req/min · LangGraph, FastAPI, AWS</td>
+<td>Handled 2000+ req/min across 10+ endpoints, led end-to-end multi-agent RAG pipeline with LLM-as-Judge · LangGraph, FastAPI, AWS</td>
 </tr>
 <tr>
-<td><img src="https://github.com/hc-sc.png?size=40" width="16" height="16" style="border-radius:3px" /> <b>Health Canada</b></td>
+<td><b>Health Canada</b></td>
 <td>ML Engineer Intern</td>
-<td>Document QA with Llama3 + ChromaDB · LangChain, Azure</td>
+<td>Built document QA system using Llama3 7B + ChromaDB, improved accuracy ~20% via query transformation · LangChain, Azure, Streamlit</td>
 </tr>
 <tr>
-<td><img src="https://github.com/Keywords-AI.png?size=40" width="16" height="16" style="border-radius:3px" /> <b>Keywords AI</b> <sub>YC W24</sub></td>
+<td><b>Keywords AI</b> <sub>YC W24</sub></td>
 <td>Software Engineer Intern</td>
-<td>NER resume parsing, 1000+ docs · spaCy, SQLite</td>
+<td>Parsed 1000+ resumes with spaCy NER pipeline, reduced response delay 98% via SQLite caching · spaCy, SQLite</td>
 </tr>
 <tr>
-<td><img src="https://logo.clearbit.com/intapp.com" width="16" height="16" style="border-radius:3px" /> <b>Intapp</b></td>
+<td><b>Intapp</b></td>
 <td>ML Engineer Intern</td>
-<td>Entity recognition, 70% recall · spaCy, W&B · Berlin</td>
+<td>Achieved 70% recall on entity recognition by fine-tuning spaCy models and optimizing via W&B on Azure · Berlin</td>
 </tr>
 </table>
 
@@ -103,7 +106,7 @@ CS student at the **University of Waterloo** (graduating 2026) with a business s
 ![CUDA](https://img.shields.io/badge/CUDA-0d1117?style=flat&logo=nvidia&logoColor=76B900)
 ![spaCy](https://img.shields.io/badge/spaCy-0d1117?style=flat&logo=spacy&logoColor=09A3D5)
 
-**Web / Cloud**
+**Web**
 
 ![React](https://img.shields.io/badge/React-0d1117?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat&logo=nextdotjs&logoColor=white)
@@ -111,11 +114,15 @@ CS student at the **University of Waterloo** (graduating 2026) with a business s
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat&logo=fastapi&logoColor=009688)
 ![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-0d1117?style=flat&logo=django&logoColor=092E20)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat&logo=docker&logoColor=2496ED)
+
+**Cloud / Infra**
+
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat&logo=amazonwebservices&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat&logo=docker&logoColor=2496ED)
 ![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat&logo=supabase&logoColor=3FCF8E)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat&logo=postgresql&logoColor=4169E1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat&logo=mongodb&logoColor=47A248)
+![Azure](https://img.shields.io/badge/Azure-0d1117?style=flat&logo=microsoftazure&logoColor=0078D4)
 
 **Tools**
 
@@ -137,7 +144,11 @@ CS student at the **University of Waterloo** (graduating 2026) with a business s
 <br>
 
 <div align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kenwuqianghao&hide_border=true&bg_color=0d1117&color=c9d1d9&line=E8567C&point=ffffff&area=true&area_color=E8567C" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kenwuqianghao/kenwuqianghao/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kenwuqianghao/kenwuqianghao/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/kenwuqianghao/kenwuqianghao/output/github-snake.svg" width="100%" />
+</picture>
 </div>
 
 ---
@@ -145,5 +156,17 @@ CS student at the **University of Waterloo** (graduating 2026) with a business s
 ### Chess
 
 <div align="center">
-<img src="https://lichess-game-readme.vercel.app/?" alt="Current Lichess Game" />
+
+<img src="https://lichess-readme.vercel.app/?"> &nbsp;&nbsp; <img src="https://chess-com-read-me.vercel.app/?" >
+
 </div>
+
+<br>
+
+<div align="center">
+<img src="https://lichess-game-readme.vercel.app/?" alt="Current Lichess Game" />
+&nbsp;&nbsp;
+<img src="https://chess-com-game-readme.vercel.app/?" alt="Current Chess.com Game" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F24976,50:E8656A,100:F0A050&height=100&section=footer" width="100%" />
