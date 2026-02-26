@@ -1,82 +1,52 @@
-<h1 align="center">Sup , I'm Ken <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<a href="https://github.com/kenwuqianghao/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/kenwuqianghao/iBeats/main/files/heart.svg"/></a>
+<div align="center">
 
-<p align="center">
+# Ken Wu
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kenwuqianghao&color=blue" alt="Profile Views"> •  
-  <img alt="Github Follower" src="https://img.shields.io/github/followers/KenWuqianghao?label=Followers"> •   
-  <img src="https://img.shields.io/github/stars/KenWuqianghao?label=Stars" alt="Total Stars">• 
-  <img src="https://wakatime.com/badge/user/dc9f3a76-8cfd-40d2-bc95-0afa3e00ab35.svg" alt="wakatime" />•
-  <img src="https://lichess-readme.vercel.app/?">•
-  <img src="https://chess-com-read-me.vercel.app/?">
-</p>
-
-<br>
-<br>
-
-## :sassy_man:  About me
-- :school: Student @ [University of Waterloo](https://uwaterloo.ca/) for CS
-- :technologist: I love Python and ML. I also know some front-end development including React, Javascript, Typescript, etc 
-- :thinking: Curious to learn more about ML, LLM and mobile development. Contemplating whether I should go into academia or the startup space. 
-- :nerd_face: I'm always curious to learn more, don't hesitate to reach out to me if you have any fun projects
-- :spider_web: Read more about me on my [website](https://kenwu.is-a.dev/)
-
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=kenwuqianghao&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/KenWuqianghao)
-
-## :hammer_and_pick: Skills
-[![My Skills](https://skillicons.dev/icons?i=linux,vscode,python,tensorflow,pytorch,docker,c,cpp,bash,flask,django,mysql,r,ts,js,html,css,pug,vim,git,github,latex&theme=dark)](https://skillicons.dev)
+**CS @ University of Waterloo** · Python, ML, and systems thinker
 
 <br>
 
-## 📊 Github Stats
-### 📈 General Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kenwuqianghao&show_icons=true&theme=tokyonight">
-</p>
-<br>
+<img src="https://komarev.com/ghpvc/?username=kenwuqianghao&color=555555&style=flat&label=visitors" alt="Profile Views">
 
-### 🔥 Streaks
-<p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kenwuqianghao&theme=tokyonight" alt="KenWu"/>
-</p>
-<br>
+</div>
 
-### 🏃 Recent Activities
-<p align="center">
-  <img alt="Ken's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kenwuqianghao&theme=github"/>
-</p>
-<br>
+---
 
-### 🎵 Music I'm Listening To
-<p align="center">
-   <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=wuqianghao&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=wuqianghao&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true">
-</p>
+### About
 
-### 🎮 Video Games I'm Playing
-<p align="center">
-   <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199316627566">
-</p>
+- CS student at the University of Waterloo, focused on machine learning and applied AI
+- Building with Python, PyTorch, and TensorFlow — curious about LLMs and mobile development
+- Open to collaborating on research or interesting side projects
+- More at [kenwu.is-a.dev](https://kenwu.is-a.dev/)
 
-### ♟️ Chess Game I'm Playing on Lichess
-<p align="center">
-   <img src="https://lichess-game-readme.vercel.app/?">
-</p>
+---
 
-### ♟️ Chess Game I'm Playing on Chess.com
-<p align="center">
-   <img src="https://chess-com-game-readme.vercel.app/?">
-</p>
+### Stack
 
-## 🔗 Connect With Me
-<br>
-<a target="_blank" href="mailto:wooqianghao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="https://www.linkedin.com/in/kenwuu/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="https://twitter.com/Kenwuqianghao"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,c,cpp,flask,django,ts,js,react,linux,git,bash,vim,latex&theme=dark)](https://skillicons.dev)
 
-## Credit
-Made by Ken with Love 💙
-<br>
-Many thanks to [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+---
+
+### Stats
+
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kenwuqianghao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kenwuqianghao&theme=tokyonight&hide_border=true&background=0d1117" />
+</div>
+
+---
+
+### Chess
+
+<div align="center">
+<img src="https://lichess-game-readme.vercel.app/?" alt="Current Lichess Game" />
+</div>
+
+---
+
+### Connect
+
+<a href="mailto:wooqianghao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/kenwuu/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://twitter.com/Kenwuqianghao"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white" /></a>
