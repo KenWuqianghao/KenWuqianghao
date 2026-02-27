@@ -12,6 +12,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=flat&logo=x&logoColor=E8567C)](https://twitter.com/Kenwuqianghao)
 [![Resume](https://img.shields.io/badge/Resume-0d1117?style=flat&logo=googledrive&logoColor=E8567C)](https://drive.google.com/file/d/11TiGQ-JxqmLQ-TJ24Jui8V9kXsI6QZld/view)
 
+![Profile Views](https://komarev.com/ghpvc/?username=kenwuqianghao&color=E8567C&style=flat&label=visitors)
+
 </div>
 
 <br>
@@ -19,6 +21,8 @@
 CS student at the **University of Waterloo** (graduating 2026) with a business specialization and philosophy minor. I build ML systems — fine-tuning pipelines, LLM agents, RAG architectures — and ship production backends in Python. 7 internships across ML, data science, and software engineering, from YC startups to government to enterprise.
 
 **Neo Scholar Finalist** · **5x Hackathon Winner** · **Stanford Code in Place Instructor** · **URA @ UWaterloo** · **Research Exchange @ Lancaster University**
+
+Currently looking for **Fall 2026 / New Grad** roles in ML, systems, or software engineering.
 
 ---
 
@@ -154,20 +158,20 @@ Work authorized in 🇨🇦 Canada · 🇪🇺 EU · 🇨🇳 China
 
 <div align="center">
 
-<img src="https://lichess-readme.vercel.app/?"> &nbsp;&nbsp; <img src="https://chess-com-read-me.vercel.app/?" >
+<a href="https://lichess.org/@/KenWuu"><img src="https://lichess-readme.vercel.app/?"></a> &nbsp;&nbsp; <a href="https://www.chess.com/member/kenwuu"><img src="https://chess-com-read-me.vercel.app/?"></a>
 
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://lichess-game-readme.vercel.app/?" alt="Current Lichess Game" />
+<a href="https://lichess.org/@/KenWuu"><img src="https://lichess-game-readme.vercel.app/?" alt="Current Lichess Game" /></a>
 &nbsp;&nbsp;
-<img src="https://chess-com-game-readme.vercel.app/?" alt="Current Chess.com Game" />
+<a href="https://www.chess.com/member/kenwuu"><img src="https://chess-com-game-readme.vercel.app/?" alt="Current Chess.com Game" /></a>
 </div>
 
 ---
 
 ### Beyond Code
 
-Born in Italy, raised Chinese, studying in Canada, interned in the US, and exchanged in the UK. NBA obsessive who fine-tuned an LLM on r/nba posts and built an AI that roasts bad basketball takes. I play chess badly but build chess bots to compensate. Philosophy minor who thinks about AI alignment when not shipping ML pipelines. Basketball, poker, anime, and the occasional Leetcode grind round out the rest.
+Born in 🇮🇹 Italy, raised 🇨🇳 Chinese, studying in 🇨🇦 Canada, interned in the 🇺🇸 US, and exchanged in the 🇬🇧 UK. NBA obsessive who fine-tuned an LLM on r/nba posts and built an AI that roasts bad basketball takes. I play chess badly but build chess bots to compensate. Philosophy minor who thinks about AI alignment when not shipping ML pipelines. Basketball, poker, anime, and the occasional Leetcode grind round out the rest.
