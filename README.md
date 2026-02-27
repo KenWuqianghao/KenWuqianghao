@@ -24,41 +24,50 @@ CS student at the **University of Waterloo** (graduating 2026) with a business s
 
 ### Experience
 
+Work authorized in 🇨🇦 Canada · 🇪🇺 EU · 🇨🇳 China
+
 <table>
 <tr>
 <td><a href="https://www.nokia.com/"><b>Nokia</b></a></td>
 <td>Software Engineer Intern</td>
 <td>Built LoRA fine-tuning pipeline for Qwen generating Camunda BPMN XML with GGUF quantization · PyTorch, Unsloth, Transformer</td>
+<td>🇨🇦 Ottawa</td>
 </tr>
 <tr>
 <td><a href="https://www.td.com/"><b>TD Bank</b></a></td>
 <td>Data Scientist Intern</td>
 <td>Replatformed pipelines for 1.5M+ rows, automated 30+ min of manual ingestion per cycle, migrated on-prem to Azure · PySpark, Pandas, Databricks</td>
+<td>🇨🇦 Toronto</td>
 </tr>
 <tr>
 <td><a href="https://codeinplace.stanford.edu/"><b>Stanford University</b></a></td>
 <td>Student Instructor</td>
 <td>Taught Stanford's Code in Place CS106A to 40,000+ students globally · Python, Karel, Tkinter</td>
+<td>🇺🇸 Remote</td>
 </tr>
 <tr>
 <td><a href="https://www.august.law/"><b>August</b></a></td>
 <td>Software Engineer Intern</td>
 <td>Handled 2000+ req/min across 10+ endpoints, led end-to-end multi-agent RAG pipeline with LLM-as-Judge · LangGraph, FastAPI, AWS</td>
+<td>🇺🇸 NYC</td>
 </tr>
 <tr>
 <td><a href="https://www.canada.ca/en/health-canada.html"><b>Health Canada</b></a></td>
 <td>ML Engineer Intern</td>
 <td>Built document QA system using Llama3 7B + ChromaDB, improved accuracy ~20% via query transformation · LangChain, Azure, Streamlit</td>
+<td>🇨🇦 Ottawa</td>
 </tr>
 <tr>
 <td><a href="https://www.respan.ai/"><b>Keywords AI</b></a> <sub>YC W24</sub></td>
 <td>Software Engineer Intern</td>
 <td>Parsed 1000+ resumes with spaCy NER pipeline, reduced response delay 98% via SQLite caching · spaCy, SQLite</td>
+<td>🇺🇸 Remote</td>
 </tr>
 <tr>
 <td><a href="https://www.intapp.com/"><b>Intapp</b></a></td>
 <td>ML Engineer Intern</td>
-<td>Achieved 70% recall on entity recognition by fine-tuning spaCy models and optimizing via W&B on Azure · Berlin</td>
+<td>Achieved 70% recall on entity recognition by fine-tuning spaCy models and optimizing via W&B on Azure</td>
+<td>🇩🇪 Berlin</td>
 </tr>
 </table>
 
