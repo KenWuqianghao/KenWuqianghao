@@ -126,9 +126,18 @@ CS student at the **University of Waterloo** (graduating 2026) with a business s
 ### Stats
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kenwuqianghao&show_icons=true&hide_border=true&bg_color=0d1117&title_color=E8567C&text_color=c9d1d9&icon_color=E8567C&ring_color=E8567C" />
-&nbsp;&nbsp;
-<img height="170" src="https://streak-stats.demolab.com/?user=kenwuqianghao&hide_border=true&background=0d1117&ring=E8567C&fire=E8567C&currStreakLabel=E8567C&sideLabels=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=555555" />
+<img src="https://raw.githubusercontent.com/kenwuqianghao/kenwuqianghao/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="95%" />
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/kenwuqianghao/kenwuqianghao/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="32%" />
+<img src="https://raw.githubusercontent.com/kenwuqianghao/kenwuqianghao/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="32%" />
+<img src="https://raw.githubusercontent.com/kenwuqianghao/kenwuqianghao/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="32%" />
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/kenwuqianghao/kenwuqianghao/main/profile-summary-card-output/tokyonight/3-stats.svg" width="32%" />
+<img height="170" src="https://streak-stats.demolab.com/?user=kenwuqianghao&hide_border=true&background=0d1117&ring=E8567C&fire=E8567C&currStreakLabel=E8567C&sideLabels=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=555555" width="32%" />
 </div>
 
 ---
