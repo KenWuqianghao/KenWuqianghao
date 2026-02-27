@@ -72,25 +72,6 @@ CS student at the **University of Waterloo** (graduating 2026) with a business s
 
 ---
 
-### Projects
-
-| Project | What it does |
-|---------|-------------|
-| [**LeGM-Lab**](https://github.com/KenWuqianghao/LeGM-Lab) | AI-powered NBA take analyzer that fact-checks basketball opinions with real stats, generates visual stat cards, and roasts bad takes on X |
-| [**LeLM**](https://github.com/KenWuqianghao/LeLM) | Fine-tuned LLM for NBA hot takes, built on Qwen3-8B with LoRA, trained on Reddit r/nba posts and synthetic data |
-| [**interview-coder**](https://github.com/KenWuqianghao/interview-coder) | Open source interview coding assistant built on OpenAI API |
-| [**FlightCal**](https://github.com/KenWuqianghao/FlightCal) | Add any flight to your calendar in one click |
-| [**iBeats**](https://github.com/KenWuqianghao/iBeats) | Apple Watch heart rate data collection and visualization |
-| [**Ding-Bot**](https://github.com/KenWuqianghao/Ding-Bot) | Chess engine built for ChessHack |
-
----
-
-### Beyond Code
-
-NBA obsessive — I fine-tuned an LLM on r/nba posts and built an AI that roasts bad basketball takes. I play chess badly but build chess bots to compensate. Philosophy minor who thinks about AI alignment when not shipping ML pipelines. Basketball, anime, and the occasional Leetcode grind round out the rest.
-
----
-
 ### Stack
 
 **Languages**
@@ -175,3 +156,9 @@ NBA obsessive — I fine-tuned an LLM on r/nba posts and built an AI that roasts
 &nbsp;&nbsp;
 <img src="https://chess-com-game-readme.vercel.app/?" alt="Current Chess.com Game" />
 </div>
+
+---
+
+### Beyond Code
+
+Born in Italy, raised Chinese, studying in Canada, interned in the US, and exchanged in the UK — I'm all over the place. NBA obsessive who fine-tuned an LLM on r/nba posts and built an AI that roasts bad basketball takes. I play chess badly but build chess bots to compensate. Philosophy minor who thinks about AI alignment when not shipping ML pipelines. Basketball, anime, and the occasional Leetcode grind round out the rest.
