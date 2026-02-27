@@ -161,4 +161,4 @@ CS student at the **University of Waterloo** (graduating 2026) with a business s
 
 ### Beyond Code
 
-Born in Italy, raised Chinese, studying in Canada, interned in the US, and exchanged in the UK — I'm all over the place. NBA obsessive who fine-tuned an LLM on r/nba posts and built an AI that roasts bad basketball takes. I play chess badly but build chess bots to compensate. Philosophy minor who thinks about AI alignment when not shipping ML pipelines. Basketball, anime, and the occasional Leetcode grind round out the rest.
+Born in Italy, raised Chinese, studying in Canada, interned in the US, and exchanged in the UK. NBA obsessive who fine-tuned an LLM on r/nba posts and built an AI that roasts bad basketball takes. I play chess badly but build chess bots to compensate. Philosophy minor who thinks about AI alignment when not shipping ML pipelines. Basketball, anime, and the occasional Leetcode grind round out the rest.
