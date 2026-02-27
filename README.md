@@ -72,6 +72,25 @@ CS student at the **University of Waterloo** (graduating 2026) with a business s
 
 ---
 
+### Projects
+
+| Project | What it does |
+|---------|-------------|
+| [**LeGM-Lab**](https://github.com/KenWuqianghao/LeGM-Lab) | AI-powered NBA take analyzer that fact-checks basketball opinions with real stats, generates visual stat cards, and roasts bad takes on X |
+| [**LeLM**](https://github.com/KenWuqianghao/LeLM) | Fine-tuned LLM for NBA hot takes, built on Qwen3-8B with LoRA, trained on Reddit r/nba posts and synthetic data |
+| [**interview-coder**](https://github.com/KenWuqianghao/interview-coder) | Open source interview coding assistant built on OpenAI API |
+| [**FlightCal**](https://github.com/KenWuqianghao/FlightCal) | Add any flight to your calendar in one click |
+| [**iBeats**](https://github.com/KenWuqianghao/iBeats) | Apple Watch heart rate data collection and visualization |
+| [**Ding-Bot**](https://github.com/KenWuqianghao/Ding-Bot) | Chess engine built for ChessHack |
+
+---
+
+### Beyond Code
+
+NBA obsessive — I fine-tuned an LLM on r/nba posts and built an AI that roasts bad basketball takes. I play chess badly but build chess bots to compensate. Philosophy minor who thinks about AI alignment when not shipping ML pipelines. Basketball, anime, and the occasional Leetcode grind round out the rest.
+
+---
+
 ### Stack
 
 **Languages**
@@ -126,18 +145,17 @@ CS student at the **University of Waterloo** (graduating 2026) with a business s
 ### Stats
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/kenwuqianghao/kenwuqianghao/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="95%" />
+<img src="https://raw.githubusercontent.com/kenwuqianghao/kenwuqianghao/main/profile-summary-card-output/radical/0-profile-details.svg" width="95%" />
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/kenwuqianghao/kenwuqianghao/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="32%" />
-<img src="https://raw.githubusercontent.com/kenwuqianghao/kenwuqianghao/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="32%" />
-<img src="https://raw.githubusercontent.com/kenwuqianghao/kenwuqianghao/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="32%" />
+<img src="https://raw.githubusercontent.com/kenwuqianghao/kenwuqianghao/main/profile-summary-card-output/radical/3-stats.svg" width="47%" />
+<img src="https://raw.githubusercontent.com/kenwuqianghao/kenwuqianghao/main/profile-summary-card-output/radical/1-repos-per-language.svg" width="47%" />
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/kenwuqianghao/kenwuqianghao/main/profile-summary-card-output/tokyonight/3-stats.svg" width="32%" />
-<img height="170" src="https://streak-stats.demolab.com/?user=kenwuqianghao&hide_border=true&background=0d1117&ring=E8567C&fire=E8567C&currStreakLabel=E8567C&sideLabels=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=555555" width="32%" />
+<img src="https://raw.githubusercontent.com/kenwuqianghao/kenwuqianghao/main/profile-summary-card-output/radical/2-most-commit-language.svg" width="47%" />
+<img src="https://raw.githubusercontent.com/kenwuqianghao/kenwuqianghao/main/profile-summary-card-output/radical/4-productive-time.svg" width="47%" />
 </div>
 
 ---
