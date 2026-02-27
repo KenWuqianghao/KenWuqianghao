@@ -12,7 +12,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=flat&logo=x&logoColor=E8567C)](https://twitter.com/Kenwuqianghao)
 [![Resume](https://img.shields.io/badge/Resume-0d1117?style=flat&logo=googledrive&logoColor=E8567C)](https://drive.google.com/file/d/11TiGQ-JxqmLQ-TJ24Jui8V9kXsI6QZld/view)
 
-![Profile Views](https://komarev.com/ghpvc/?username=kenwuqianghao&color=E8567C&style=flat&label=visitors)
+![Profile Views](https://komarev.com/ghpvc/?username=kenwuqianghao&color=E8567C&style=flat&label=Visitors)
 
 </div>
 
