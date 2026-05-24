@@ -2,7 +2,7 @@
 
 # Ken Wu
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=20&duration=3000&pause=1500&color=E8567C&center=true&vCenter=true&repeat=true&width=750&height=45&lines=CS+%40+University+of+Waterloo+%E2%80%A2+Machine+Learning+%2F+Systems+%2F+LLMs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=20&duration=3000&pause=1500&color=E8567C&center=true&vCenter=true&repeat=true&width=750&height=45&lines=ML+SWE+Intern+%40+Lyft+%E2%80%A2+Open+Source+Developer+%40+Fermilab+%E2%80%A2+ML+%2F+Systems+%2F+LLMs" alt="Typing SVG" />
 
 <br>
 
@@ -18,11 +18,11 @@
 
 <br>
 
-CS student at the **University of Waterloo** (graduating 2026) with a business specialization and philosophy minor. I build ML systems — fine-tuning pipelines, LLM agents, RAG architectures — and ship production backends in Python. 7 internships across ML, data science, and software engineering, from YC startups to government to enterprise.
+**University of Waterloo** Bachelor of Computer Science graduate with a business specialization and philosophy minor. I build ML systems — fine-tuning pipelines, LLM agents, RAG architectures — and ship production backends in Python. 9 internships across ML, data science, and software engineering, from YC startups to government to enterprise.
 
-**Neo Scholar Finalist** · **5x Hackathon Winner** · **Stanford Code in Place Instructor** · **URA @ UWaterloo** · **Research Exchange @ Lancaster University**
+**Neo Scholar Finalist** · **5x Hackathon Winner** · **Stanford Code in Place Instructor** · **URA @ UWaterloo** · **Research Exchange @ Lancaster University** 
 
-Currently looking for **Fall 2026 / New Grad** roles in ML, systems, or software engineering.
+ML SWE Intern @ **Lyft** (Toronto) · Open Source Developer @ **Fermilab** with **ML4SCI**, **University of Alabama**, and **Rutgers University**. Exploring **Fall 2026 New Grad** roles in ML, systems, or software engineering.
 
 ---
 
@@ -31,6 +31,18 @@ Currently looking for **Fall 2026 / New Grad** roles in ML, systems, or software
 Work authorized in 🇨🇦 Canada · 🇪🇺 EU · 🇨🇳 China
 
 <table>
+<tr>
+<td><a href="https://www.lyft.com/"><b>Lyft</b></a></td>
+<td>ML Software Engineer Intern</td>
+<td>ML model training, evaluation, and observability for rider experience · PyTorch, Python</td>
+<td>🇨🇦 Toronto</td>
+</tr>
+<tr>
+<td><a href="https://www.fnal.gov/"><b>Fermilab</b></a> <sub><a href="https://ml4sci.org/">ML4SCI</a> · GSoC</sub></td>
+<td>Open Source Developer</td>
+<td>Agentic Lagrangian Extraction — building HEPTAPOD workflows for literature-to-simulation BSM model generation · Python, LLM agents</td>
+<td>🇺🇸 Remote</td>
+</tr>
 <tr>
 <td><a href="https://www.nokia.com/"><b>Nokia</b></a></td>
 <td>Software Engineer Intern</td>
@@ -79,6 +91,7 @@ Work authorized in 🇨🇦 Canada · 🇪🇺 EU · 🇨🇳 China
 
 ### Research
 
+- **Agentic Lagrangian Extraction from the Literature** — GSoC Developer, Fermilab · ML4SCI · University of Alabama · Rutgers University
 - **Symbolic Regression using GPT Models** — Undergraduate Research Assistant, University of Waterloo
 - **Clustering Algorithm Optimization** — Research Exchange, Lancaster University
 - **Medical Agent** — Technical Project Manager, Wat.ai
