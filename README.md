@@ -74,7 +74,7 @@ Work authorized in 🇨🇦 Canada · 🇪🇺 EU · 🇨🇳 China
 <td>🇨🇦 Ottawa</td>
 </tr>
 <tr>
-<td><a href="https://www.respan.ai/"><b>Keywords AI</b></a> <sub>YC W24</sub></td>
+<td><a href="https://www.respan.ai/"><b>Respan</b></a> <sub>YC W24 · formerly Keywords AI</sub></td>
 <td>Software Engineer Intern</td>
 <td>Parsed 1000+ resumes with spaCy NER pipeline, reduced response delay 98% via SQLite caching · spaCy, SQLite</td>
 <td>🇺🇸 Remote</td>
