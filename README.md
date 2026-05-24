@@ -91,7 +91,7 @@ Work authorized in 🇨🇦 Canada · 🇪🇺 EU · 🇨🇳 China
 
 ### Research
 
-- **Agentic Lagrangian Extraction from the Literature** — GSoC Developer, Fermilab · ML4SCI · University of Alabama · Rutgers University
+- **Agentic Lagrangian Extraction from the Literature** — Fermilab · GSoC · ML4SCI · University of Alabama · Rutgers University
 - **Symbolic Regression using GPT Models** — Undergraduate Research Assistant, University of Waterloo
 - **Clustering Algorithm Optimization** — Research Exchange, Lancaster University
 - **Medical Agent** — Technical Project Manager, Wat.ai
