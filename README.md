@@ -9,7 +9,7 @@
 [![Website](https://img.shields.io/badge/Website-0d1117?style=flat&logo=safari&logoColor=E8567C)](https://kenwu.is-a.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0U4NTY3QyI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDY0IDIuMDY0IDAgMSAxIDAtNC4xMjggMi4wNjQgMi4wNjQgMCAwIDEgMCA0LjEyOHptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+Cg==)](https://www.linkedin.com/in/kenwuu/)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=flat&logo=gmail&logoColor=E8567C)](mailto:ken.wu@uwaterloo.ca)
-[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=flat&logo=x&logoColor=E8567C)](https://twitter.com/Kenwuqianghao)
+[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=flat&logo=x&logoColor=E8567C)](https://twitter.com/kenwuuuu)
 [![Resume](https://img.shields.io/badge/Resume-0d1117?style=flat&logo=googledrive&logoColor=E8567C)](https://drive.google.com/file/d/11TiGQ-JxqmLQ-TJ24Jui8V9kXsI6QZld/view)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kenwuqianghao&color=E8567C&style=flat&label=Visitors)
