@@ -2,7 +2,7 @@
 
 # Ken Wu
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=20&duration=3000&pause=1500&color=E8567C&center=true&vCenter=true&repeat=true&width=750&height=45&lines=ML+SWE+Intern+%40+Lyft+%E2%80%A2+Open+Source+Developer+%40+Fermilab+%E2%80%A2+ML+%2F+Systems+%2F+LLMs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=20&duration=3000&pause=1500&color=E8567C&center=true&vCenter=true&repeat=true&width=750&height=45&lines=Incoming+MTS+%40+Mercor+%E2%80%A2+ML+SWE+Intern+%40+Lyft+%E2%80%A2+Open+Source+Developer+%40+Fermilab" alt="Typing SVG" />
 
 <br>
 
@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0U4NTY3QyI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDY0IDIuMDY0IDAgMSAxIDAtNC4xMjggMi4wNjQgMi4wNjQgMCAwIDEgMCA0LjEyOHptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+Cg==)](https://www.linkedin.com/in/kenwuu/)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=flat&logo=gmail&logoColor=E8567C)](mailto:ken.wu@uwaterloo.ca)
 [![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=flat&logo=x&logoColor=E8567C)](https://twitter.com/kenwuuuu)
-[![Resume](https://img.shields.io/badge/Resume-0d1117?style=flat&logo=googledrive&logoColor=E8567C)](https://drive.google.com/file/d/11TiGQ-JxqmLQ-TJ24Jui8V9kXsI6QZld/view)
+[![Resume](https://img.shields.io/badge/Resume-0d1117?style=flat&logo=googledocs&logoColor=E8567C)](https://kenwu.is-a.dev/Ken_Wu_Resume.pdf)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kenwuqianghao&color=E8567C&style=flat&label=Visitors)
 
@@ -18,11 +18,11 @@
 
 <br>
 
-**University of Waterloo** Bachelor of Computer Science graduate with a business specialization and philosophy minor. I build ML systems — fine-tuning pipelines, LLM agents, RAG architectures — and ship production backends in Python. 9 internships across ML, data science, and software engineering, from YC startups to government to enterprise.
+**University of Waterloo** Bachelor of Computer Science graduate with a business specialization and philosophy minor. I build ML systems — fine-tuning pipelines, LLM agents, RAG architectures — and ship production backends in Python. Internships across ML, data science, and software engineering, from YC startups to government to enterprise.
 
-**Neo Scholar Finalist** · **5x Hackathon Winner** · **Stanford Code in Place Instructor** · **URA @ UWaterloo** · **Research Exchange @ Lancaster University** 
+**Neo Scholar Finalist** · **5x Hackathon Winner** · **Stanford Code in Place Instructor** · **URA @ UWaterloo** · **Research Exchange @ Lancaster University**
 
-ML SWE Intern @ **Lyft** (Toronto) · Open Source Developer @ **Fermilab** with **ML4SCI**, **University of Alabama**, and **Rutgers University**. Exploring **Fall 2026 New Grad** roles in ML, systems, or software engineering.
+Incoming Member of Technical Staff @ **Mercor** (San Francisco) · ML SWE Intern @ **Lyft** (Toronto) · Open Source Developer @ **Fermilab** with **ML4SCI**, **University of Alabama**, and **Rutgers University**.
 
 ---
 
@@ -32,9 +32,15 @@ Work authorized in 🇨🇦 Canada · 🇪🇺 EU · 🇨🇳 China
 
 <table>
 <tr>
+<td><a href="https://www.mercor.com/"><b>Mercor</b></a></td>
+<td>Member of Technical Staff — Enterprise AI</td>
+<td>Incoming · Enterprise AI · San Francisco</td>
+<td>🇺🇸 SF</td>
+</tr>
+<tr>
 <td><a href="https://www.lyft.com/"><b>Lyft</b></a></td>
 <td>ML Software Engineer Intern</td>
-<td>ML model training, evaluation, and observability for rider experience · PyTorch, Python</td>
+<td>Doubled bailout cancel-detection recall (+34.2pp), grew Canada coverage 1.4%→100%, shipped shadow inference · Python, CatBoost, SQL, GeoPandas</td>
 <td>🇨🇦 Toronto</td>
 </tr>
 <tr>
@@ -114,13 +120,17 @@ Work authorized in 🇨🇦 Canada · 🇪🇺 EU · 🇨🇳 China
 **ML / Data**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat&logo=pytorch&logoColor=EE4C2C)
+![CatBoost](https://img.shields.io/badge/CatBoost-0d1117?style=flat&logo=catboost&logoColor=FFCC00)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat&logo=tensorflow&logoColor=FF6F00)
 ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat&logo=numpy&logoColor=013243)
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat&logo=pandas&logoColor=150458)
 ![PySpark](https://img.shields.io/badge/PySpark-0d1117?style=flat&logo=apachespark&logoColor=E25A1C)
 ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat&logo=langchain&logoColor=1C3C3C)
+![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=flat&logo=langchain&logoColor=1C3C3C)
+![MLflow](https://img.shields.io/badge/MLflow-0d1117?style=flat&logo=mlflow&logoColor=0194E2)
 ![CUDA](https://img.shields.io/badge/CUDA-0d1117?style=flat&logo=nvidia&logoColor=76B900)
 ![spaCy](https://img.shields.io/badge/spaCy-0d1117?style=flat&logo=spacy&logoColor=09A3D5)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=flat&logoColor=FF6F61)
 
 **Web**
 
@@ -129,16 +139,15 @@ Work authorized in 🇨🇦 Canada · 🇪🇺 EU · 🇨🇳 China
 ![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat&logo=tailwindcss&logoColor=06B6D4)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat&logo=fastapi&logoColor=009688)
 ![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-0d1117?style=flat&logo=django&logoColor=092E20)
 
 **Cloud / Infra**
 
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0iI0ZGOTkwMCI+PHBhdGggZD0iTTEuNiAxMS4yYzIuOSAyLjEgNy4yIDIuNiAxMC42IDEuMy41LS4yLjkuMy40LjZDOS43IDE1IDUuNCAxNSAyIDEzYy0uMy0uMi0uNy0uNC0uNC0uN3YtMS4xem0xMC4yLTEuMmMtLjMtLjQtMi0uMi0yLjggMC0uMiAwLS4zLS4yLS4xLS4zIDEuNC0xIDMuNi0uNyAzLjktLjQuMy4zLS4xIDIuNi0xLjQgMy42LS4yLjItLjQuMS0uMy0uMS4zLS43LjktMi4zLjctMi44eiIvPjxwYXRoIGQ9Ik02LjQgNy40YzAtLjUuMy0uOS42LS45cy43LjQuNy45LS4zLjktLjcuOS0uNi0uNC0uNi0uOXptLTIuOC40YzAtLjUuMi0uOS42LS45LjMgMCAuNi40LjYuOXMtLjMuOS0uNi45Yy0uNCAwLS42LS40LS42LS45em01LjIuMWMwLS41LjMtLjkuNi0uOS40IDAgLjcuNC43LjlzLS4zLjktLjcuOWMtLjMgMC0uNi0uNC0uNi0uOXoiLz48L3N2Zz4=)
+![Azure](https://img.shields.io/badge/Azure-0d1117?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0iIzAwNzhENCI+PHBhdGggZD0iTTcuMyAyTDMgMTJoMi40TDkuOCAyem0tMSA2bC0zIDZoOS40eiIvPjwvc3ZnPg==)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat&logo=docker&logoColor=2496ED)
 ![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat&logo=supabase&logoColor=3FCF8E)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat&logo=postgresql&logoColor=4169E1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat&logo=mongodb&logoColor=47A248)
-![Azure](https://img.shields.io/badge/Azure-0d1117?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0iIzAwNzhENCI+PHBhdGggZD0iTTcuMyAyTDMgMTJoMi40TDkuOCAyem0tMSA2bC0zIDZoOS40eiIvPjwvc3ZnPg==)
 
 **Tools**
 
