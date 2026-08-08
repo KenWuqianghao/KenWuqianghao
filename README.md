@@ -2,7 +2,7 @@
 
 # Ken Wu
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=20&duration=3000&pause=1500&color=E8567C&center=true&vCenter=true&repeat=true&width=750&height=45&lines=Incoming+MTS+%40+Mercor+%E2%80%A2+ML+SWE+Intern+%40+Lyft+%E2%80%A2+Open+Source+Developer+%40+Fermilab" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=20&duration=3000&pause=1500&color=E8567C&center=true&vCenter=true&repeat=true&width=750&height=45&lines=Incoming+MTS+%40+Mercor+%E2%80%A2+Prev+ML+SWE+%40+Lyft+%E2%80%A2+Open+Source+Developer+%40+Fermilab" alt="Typing SVG" />
 
 <br>
 
@@ -22,7 +22,7 @@
 
 **Neo Scholar Finalist** · **5x Hackathon Winner** · **Stanford Code in Place Instructor** · **URA @ UWaterloo** · **Research Exchange @ Lancaster University**
 
-Incoming Member of Technical Staff @ **Mercor** (San Francisco) · ML SWE Intern @ **Lyft** (Toronto) · Open Source Developer @ **Fermilab** with **ML4SCI**, **University of Alabama**, and **Rutgers University**.
+Incoming Member of Technical Staff @ **Mercor** (San Francisco) · Previously ML SWE Intern @ **Lyft** (Toronto) · Open Source Developer @ **Fermilab** with **ML4SCI**, **University of Alabama**, and **Rutgers University**.
 
 ---
 
