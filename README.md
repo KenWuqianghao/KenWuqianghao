@@ -2,7 +2,7 @@
 
 # Ken Wu
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=20&duration=3000&pause=1500&color=E8567C&center=true&vCenter=true&repeat=true&width=750&height=45&lines=Incoming+MTS+%40+Mercor+%E2%80%A2+Prev+ML+SWE+%40+Lyft+%E2%80%A2+Open+Source+Developer+%40+Fermilab" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=20&duration=3000&pause=1500&color=E8567C&center=true&vCenter=true&repeat=true&width=750&height=45&lines=Incoming+MTS+%40+Mercor+%E2%80%A2+Prev+ML+SWE+%40+Lyft" alt="Typing SVG" />
 
 <br>
 
@@ -20,9 +20,9 @@
 
 **University of Waterloo** Bachelor of Computer Science graduate with a business specialization and philosophy minor. I build ML systems — fine-tuning pipelines, LLM agents, RAG architectures — and ship production backends in Python. Internships across ML, data science, and software engineering, from YC startups to government to enterprise.
 
-**Neo Scholar Finalist** · **5x Hackathon Winner** · **Stanford Code in Place Instructor** · **URA @ UWaterloo** · **Research Exchange @ Lancaster University**
+Incoming Member of Technical Staff @ **Mercor** (San Francisco) · Previously ML SWE Intern @ **Lyft** (Toronto)
 
-Incoming Member of Technical Staff @ **Mercor** (San Francisco) · Previously ML SWE Intern @ **Lyft** (Toronto) · Open Source Developer @ **Fermilab** with **ML4SCI**, **University of Alabama**, and **Rutgers University**.
+**Neo Scholar Finalist** · **5x Hackathon Winner** · **Stanford Code in Place Instructor**
 
 ---
 
@@ -44,12 +44,6 @@ Work authorized in 🇨🇦 Canada · 🇪🇺 EU · 🇨🇳 China
 <td>🇨🇦 Toronto</td>
 </tr>
 <tr>
-<td><a href="https://www.fnal.gov/"><b>Fermilab</b></a> <sub><a href="https://ml4sci.org/">ML4SCI</a> · GSoC</sub></td>
-<td>Open Source Developer</td>
-<td>Agentic Lagrangian Extraction — building HEPTAPOD workflows for literature-to-simulation BSM model generation · Python, LLM agents</td>
-<td>🇺🇸 Remote</td>
-</tr>
-<tr>
 <td><a href="https://www.nokia.com/"><b>Nokia</b></a></td>
 <td>Software Engineer Intern</td>
 <td>Built LoRA fine-tuning pipeline for Qwen generating Camunda BPMN XML with GGUF quantization · PyTorch, Unsloth, Transformer</td>
@@ -60,12 +54,6 @@ Work authorized in 🇨🇦 Canada · 🇪🇺 EU · 🇨🇳 China
 <td>Data Scientist Intern</td>
 <td>Replatformed pipelines for 1.5M+ rows, automated 30+ min of manual ingestion per cycle, migrated on-prem to Azure · PySpark, Pandas, Databricks</td>
 <td>🇨🇦 Toronto</td>
-</tr>
-<tr>
-<td><a href="https://codeinplace.stanford.edu/"><b>Stanford University</b></a></td>
-<td>Student Instructor</td>
-<td>Taught Stanford's Code in Place CS106A to 40,000+ students globally · Python, Karel, Tkinter</td>
-<td>🇺🇸 Remote</td>
 </tr>
 <tr>
 <td><a href="https://www.august.law/"><b>August</b></a></td>
@@ -90,6 +78,12 @@ Work authorized in 🇨🇦 Canada · 🇪🇺 EU · 🇨🇳 China
 <td>ML Engineer Intern</td>
 <td>Achieved 70% recall on entity recognition by fine-tuning spaCy models and optimizing via W&B on Azure</td>
 <td>🇩🇪 Berlin</td>
+</tr>
+<tr>
+<td><a href="https://codeinplace.stanford.edu/"><b>Stanford University</b></a></td>
+<td>Student Instructor</td>
+<td>Taught Stanford's Code in Place CS106A to 40,000+ students globally · Python, Karel, Tkinter</td>
+<td>🇺🇸 Remote</td>
 </tr>
 </table>
 
