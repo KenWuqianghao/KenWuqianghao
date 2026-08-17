@@ -18,11 +18,11 @@
 
 <br>
 
-**University of Waterloo** Bachelor of Computer Science graduate with a business specialization and philosophy minor. I build ML systems — fine-tuning pipelines, LLM agents, RAG architectures — and ship production backends in Python. Internships across ML, data science, and software engineering, from YC startups to government to enterprise.
+Software Engineer & ML Researcher. **University of Waterloo**, CS '26. Based in Toronto.
 
-Incoming Member of Technical Staff @ **Mercor** (San Francisco) · Previously ML SWE Intern @ **Lyft** (Toronto)
+Incoming Member of Technical Staff, Enterprise AI @ **Mercor** (San Francisco) · Previously ML SWE Intern @ **Lyft** (Toronto)
 
-**Neo Scholar Finalist** · **5x Hackathon Winner** · **Stanford Code in Place Instructor**
+**Neo Scholar Finalist** · **5x Hackathon Winner**
 
 ---
 
@@ -32,7 +32,7 @@ Work authorized in 🇨🇦 Canada · 🇪🇺 EU · 🇨🇳 China
 
 <table>
 <tr>
-<td><a href="https://www.mercor.com/"><b>Mercor</b></a></td>
+<td><a href="https://mercor.com/"><b>Mercor</b></a></td>
 <td>Member of Technical Staff — Enterprise AI</td>
 <td>Incoming · Enterprise AI · San Francisco</td>
 <td>🇺🇸 SF</td>
@@ -52,38 +52,50 @@ Work authorized in 🇨🇦 Canada · 🇪🇺 EU · 🇨🇳 China
 <tr>
 <td><a href="https://www.td.com/"><b>TD Bank</b></a></td>
 <td>Data Scientist Intern</td>
-<td>Replatformed pipelines for 1.5M+ rows, automated 30+ min of manual ingestion per cycle, migrated on-prem to Azure · PySpark, Pandas, Databricks</td>
+<td>Replatformed 1.5M+ row pipelines at 100% parity; cut QA time 80% and migrated on-prem to Azure · PySpark, Pandas, Databricks</td>
 <td>🇨🇦 Toronto</td>
-</tr>
-<tr>
-<td><a href="https://www.august.law/"><b>August</b></a></td>
-<td>Software Engineer Intern</td>
-<td>Handled 2000+ req/min across 10+ endpoints, led end-to-end multi-agent RAG pipeline with LLM-as-Judge · LangGraph, FastAPI, AWS</td>
-<td>🇺🇸 NYC</td>
-</tr>
-<tr>
-<td><a href="https://www.canada.ca/en/health-canada.html"><b>Health Canada</b></a></td>
-<td>ML Engineer Intern</td>
-<td>Built document QA system using Llama3 7B + ChromaDB, improved accuracy ~20% via query transformation · LangChain, Azure, Streamlit</td>
-<td>🇨🇦 Ottawa</td>
-</tr>
-<tr>
-<td><a href="https://www.respan.ai/"><b>Respan</b></a> <sub>YC W24 · formerly Keywords AI</sub></td>
-<td>Software Engineer Intern</td>
-<td>Parsed 1000+ resumes with spaCy NER pipeline, reduced response delay 98% via SQLite caching · spaCy, SQLite</td>
-<td>🇺🇸 Remote</td>
-</tr>
-<tr>
-<td><a href="https://www.intapp.com/"><b>Intapp</b></a></td>
-<td>ML Engineer Intern</td>
-<td>Achieved 70% recall on entity recognition by fine-tuning spaCy models and optimizing via W&B on Azure</td>
-<td>🇩🇪 Berlin</td>
 </tr>
 <tr>
 <td><a href="https://codeinplace.stanford.edu/"><b>Stanford University</b></a></td>
 <td>Student Instructor</td>
-<td>Taught Stanford's Code in Place CS106A to 40,000+ students globally · Python, Karel, Tkinter</td>
-<td>🇺🇸 Remote</td>
+<td>Instructed Stanford Code in Place CS106A for a global cohort of 40,000+ students · Python, Karel, Tkinter</td>
+<td>🇺🇸 Stanford</td>
+</tr>
+<tr>
+<td><a href="https://www.august.law/"><b>August</b></a></td>
+<td>Software Engineer Intern</td>
+<td>Scaled 10+ endpoints to 2,000+ req/min; multi-agent RAG with LLM-as-Judge and ELO scoring · LangGraph, FastAPI, AWS</td>
+<td>🇺🇸 NYC</td>
+</tr>
+<tr>
+<td><a href="https://hum.ai/"><b>hum.ai</b></a> <sub>formerly Coastal Carbon</sub></td>
+<td>ML Engineer Intern</td>
+<td>Benchmarked SOTA super-resolution models (ESRGAN, StableSR) for coastal imagery on SageMaker · PyTorch, AWS</td>
+<td>🇨🇦 Kitchener</td>
+</tr>
+<tr>
+<td><a href="https://www.canada.ca/en/health-canada.html"><b>Health Canada</b></a></td>
+<td>ML Engineer Intern</td>
+<td>Built Llama3 7B + ChromaDB document QA; lifted semantic accuracy ~20% via query transformation · LangChain, Azure, Streamlit</td>
+<td>🇨🇦 Ottawa</td>
+</tr>
+<tr>
+<td><a href="https://www.saputo.com/"><b>Saputo</b></a></td>
+<td>Data Analyst Intern</td>
+<td>Cut ~8 hrs/week of open-order updates; automated workflows for 1,000+ Nestlé products · TypeScript, Excel, VBA, Gemini API</td>
+<td>🇨🇦 Georgetown</td>
+</tr>
+<tr>
+<td><a href="https://respan.ai/"><b>Respan AI</b></a> <sub>YC W24 · formerly Keywords AI</sub></td>
+<td>Software Engineer Intern</td>
+<td>Parsed 1,000+ resumes with spaCy NER; cut parsing delay 98% via SQLite caching · spaCy, SQLite</td>
+<td>🇺🇸 NYC</td>
+</tr>
+<tr>
+<td><a href="https://www.intapp.com/"><b>Intapp</b></a> <sub>formerly delphai</sub></td>
+<td>ML Engineer Intern</td>
+<td>Hit 70% entity recall by fine-tuning spaCy NER and tuning hyperparameters with W&B on Azure</td>
+<td>🇩🇪 Berlin</td>
 </tr>
 </table>
 
@@ -91,10 +103,23 @@ Work authorized in 🇨🇦 Canada · 🇪🇺 EU · 🇨🇳 China
 
 ### Research
 
-- **Agentic Lagrangian Extraction from the Literature** — Fermilab · GSoC · ML4SCI · University of Alabama · Rutgers University
-- **Symbolic Regression using GPT Models** — Undergraduate Research Assistant, University of Waterloo
-- **Clustering Algorithm Optimization** — Research Exchange, Lancaster University
-- **Medical Agent** — Technical Project Manager, Wat.ai
+- **Agentic Lagrangian Extraction** — Fermilab · GSoC 2026 · ML4SCI · University of Alabama
+- **Symbolic Regression with GPT models** — Undergraduate Research Assistant, University of Waterloo · Prof. Ali Ghodsi
+- **Clustering optimization (ReSil / R-Means)** — Undergraduate Researcher, Lancaster University · Prof. Plamen Angelov
+
+---
+
+### Projects
+
+- **[OpenComposer](https://github.com/KenWuqianghao/OpenComposer)** — Mini-scale Composer 2 training pipeline on a single GH200 · Python, PyTorch, MoE, OpenRLHF
+- **[AppGammon](https://github.com/KenWuqianghao/AppGammon)** — Online backgammon with React Native/Expo and a Hono backend · TypeScript
+- **[Ding-Bot](https://github.com/KenWuqianghao/Ding-Bot)** — Chess engine with GATEAU-style Graph Attention Networks · Python, TypeScript
+- **[PokerMon](https://github.com/KenWuqianghao/PokerMon)** — Deep CFR for 6-player No-Limit Texas Hold'em · Python
+- **[LeaseEase](https://devpost.com/software/leaseease)** — McHack '24 prize · RAG over Canada's Residential Tenancy Act · Python, Streamlit, ChromaDB
+- **[MedChat](https://github.com/KenWuqianghao/MedChat)** — Cohere RAG Challenge '23 winner · clinical Q&A with CNN + RAG · Python, TensorFlow
+- **[DirectU](https://directu.onrender.com/)** — Hack the North '23 · Best Use of Cohere · four-year UW course planner
+- **[LeGM-Lab](https://github.com/KenWuqianghao/LeGM-Lab)** — NBA take analyzer that fact-checks opinions and roasts bad takes on X
+- **[FlightCal](https://github.com/KenWuqianghao/FlightCal)** — Flight info to Google Calendar or `.ics` · TypeScript, Next.js
 
 ---
 
@@ -109,6 +134,7 @@ Work authorized in 🇨🇦 Canada · 🇪🇺 EU · 🇨🇳 China
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat&logo=javascript&logoColor=F7DF1E)
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat&logo=postgresql&logoColor=4169E1)
 ![R](https://img.shields.io/badge/R-0d1117?style=flat&logo=r&logoColor=276DC3)
+![Racket](https://img.shields.io/badge/Racket-0d1117?style=flat&logo=racket&logoColor=9F1D20)
 ![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat&logo=gnubash&logoColor=4EAA25)
 
 **ML / Data**
@@ -119,12 +145,11 @@ Work authorized in 🇨🇦 Canada · 🇪🇺 EU · 🇨🇳 China
 ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat&logo=numpy&logoColor=013243)
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat&logo=pandas&logoColor=150458)
 ![PySpark](https://img.shields.io/badge/PySpark-0d1117?style=flat&logo=apachespark&logoColor=E25A1C)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat&logo=langchain&logoColor=1C3C3C)
-![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=flat&logo=langchain&logoColor=1C3C3C)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-0d1117?style=flat&logo=python&logoColor=3776AB)
 ![MLflow](https://img.shields.io/badge/MLflow-0d1117?style=flat&logo=mlflow&logoColor=0194E2)
+![Hive](https://img.shields.io/badge/Hive-0d1117?style=flat&logo=apachehive&logoColor=FDEE21)
 ![CUDA](https://img.shields.io/badge/CUDA-0d1117?style=flat&logo=nvidia&logoColor=76B900)
 ![spaCy](https://img.shields.io/badge/spaCy-0d1117?style=flat&logo=spacy&logoColor=09A3D5)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=flat&logoColor=FF6F61)
 
 **Web**
 
@@ -133,6 +158,8 @@ Work authorized in 🇨🇦 Canada · 🇪🇺 EU · 🇨🇳 China
 ![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat&logo=tailwindcss&logoColor=06B6D4)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat&logo=fastapi&logoColor=009688)
 ![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat&logo=flask&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat&logo=langchain&logoColor=1C3C3C)
+![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=flat&logo=langchain&logoColor=1C3C3C)
 
 **Cloud / Infra**
 
@@ -142,13 +169,8 @@ Work authorized in 🇨🇦 Canada · 🇪🇺 EU · 🇨🇳 China
 ![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat&logo=supabase&logoColor=3FCF8E)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat&logo=postgresql&logoColor=4169E1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat&logo=mongodb&logoColor=47A248)
-
-**Tools**
-
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat&logo=linux&logoColor=FCC624)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=flat&logoColor=FF6F61)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat&logo=git&logoColor=F05032)
-![Vim](https://img.shields.io/badge/Vim-0d1117?style=flat&logo=vim&logoColor=019733)
-![LaTeX](https://img.shields.io/badge/LaTeX-0d1117?style=flat&logo=latex&logoColor=008080)
 
 ---
 
@@ -190,4 +212,12 @@ Work authorized in 🇨🇦 Canada · 🇪🇺 EU · 🇨🇳 China
 
 ### Beyond Code
 
-Born in 🇮🇹 Italy, raised 🇨🇳 Chinese, studying in 🇨🇦 Canada, interned in the 🇺🇸 US, and exchanged in the 🇬🇧 UK. NBA obsessive who fine-tuned an LLM on r/nba posts and built an AI that roasts bad basketball takes. I play chess badly but build chess bots to compensate. Philosophy minor who thinks about AI alignment when not shipping ML pipelines. Basketball, poker, anime, and the occasional Leetcode grind round out the rest.
+🇮🇹 Born ― 🇨🇳 Raised ― 🇨🇦 Studied ― 🇬🇧 Exchanged ― 🇺🇸 Incoming
+
+**NBA** — Fine-tuned an LLM on r/nba posts. Built an AI that roasts bad basketball takes on X.
+
+**Chess** — Mediocre player. Builds chess bots on the side to compensate.
+
+**Philosophy** — Minor who thinks about AI alignment when not shipping ML pipelines.
+
+**Off-duty** — Basketball, poker, anime, and the occasional Leetcode grind.
