@@ -20,7 +20,7 @@
 
 Software Engineer & ML Researcher. **University of Waterloo**, CS '26. Based in Toronto.
 
-Incoming Member of Technical Staff, Enterprise AI @ **Mercor** (San Francisco) · Previously ML SWE Intern @ **Lyft** (Toronto)
+Incoming Member of Technical Staff @ **Mercor** (San Francisco) · Previously ML SWE Intern @ **Lyft** (Toronto)
 
 **Neo Scholar Finalist** · **5x Hackathon Winner**
 
@@ -33,8 +33,8 @@ Work authorized in 🇨🇦 Canada · 🇪🇺 EU · 🇨🇳 China
 <table>
 <tr>
 <td><a href="https://mercor.com/"><b>Mercor</b></a></td>
-<td>Member of Technical Staff — Enterprise AI</td>
-<td>Incoming · Enterprise AI · San Francisco</td>
+<td>Member of Technical Staff</td>
+<td>Incoming · San Francisco</td>
 <td>🇺🇸 SF</td>
 </tr>
 <tr>
