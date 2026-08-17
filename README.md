@@ -103,23 +103,9 @@ Work authorized in 🇨🇦 Canada · 🇪🇺 EU · 🇨🇳 China
 
 ### Research
 
-- **Agentic Lagrangian Extraction** — Fermilab · GSoC 2026 · ML4SCI · University of Alabama
+- **Agentic Lagrangian Extraction** — Fermilab · GSoC 2026 · ML4SCI · Prof. Konstantin Matchev
 - **Symbolic Regression with GPT models** — Undergraduate Research Assistant, University of Waterloo · Prof. Ali Ghodsi
 - **Clustering optimization (ReSil / R-Means)** — Undergraduate Researcher, Lancaster University · Prof. Plamen Angelov
-
----
-
-### Projects
-
-- **[OpenComposer](https://github.com/KenWuqianghao/OpenComposer)** — Mini-scale Composer 2 training pipeline on a single GH200 · Python, PyTorch, MoE, OpenRLHF
-- **[AppGammon](https://github.com/KenWuqianghao/AppGammon)** — Online backgammon with React Native/Expo and a Hono backend · TypeScript
-- **[Ding-Bot](https://github.com/KenWuqianghao/Ding-Bot)** — Chess engine with GATEAU-style Graph Attention Networks · Python, TypeScript
-- **[PokerMon](https://github.com/KenWuqianghao/PokerMon)** — Deep CFR for 6-player No-Limit Texas Hold'em · Python
-- **[LeaseEase](https://devpost.com/software/leaseease)** — McHack '24 prize · RAG over Canada's Residential Tenancy Act · Python, Streamlit, ChromaDB
-- **[MedChat](https://github.com/KenWuqianghao/MedChat)** — Cohere RAG Challenge '23 winner · clinical Q&A with CNN + RAG · Python, TensorFlow
-- **[DirectU](https://directu.onrender.com/)** — Hack the North '23 · Best Use of Cohere · four-year UW course planner
-- **[LeGM-Lab](https://github.com/KenWuqianghao/LeGM-Lab)** — NBA take analyzer that fact-checks opinions and roasts bad takes on X
-- **[FlightCal](https://github.com/KenWuqianghao/FlightCal)** — Flight info to Google Calendar or `.ics` · TypeScript, Next.js
 
 ---
 
@@ -214,10 +200,10 @@ Work authorized in 🇨🇦 Canada · 🇪🇺 EU · 🇨🇳 China
 
 🇮🇹 Born ― 🇨🇳 Raised ― 🇨🇦 Studied ― 🇬🇧 Exchanged ― 🇺🇸 Incoming
 
-**NBA** — Fine-tuned an LLM on r/nba posts. Built an AI that roasts bad basketball takes on X.
+**NBA** — Mavs fan. Favorite player is Kevin Durant.
 
-**Chess** — Mediocre player. Builds chess bots on the side to compensate.
+**Chess** — Beaten titled players. Waterloo Chess Club and Lancaster Chess Society. [Lichess](https://lichess.org/@/KenWuu) · [Chess.com](https://www.chess.com/member/kenwuu)
 
-**Philosophy** — Minor who thinks about AI alignment when not shipping ML pipelines.
+**Philosophy** — Studied philosophy at Waterloo. Ancient Greek science and thought stuck. Next: Hegel, Spinoza, and Berkeley.
 
-**Off-duty** — Basketball, poker, anime, and the occasional Leetcode grind.
+**Off-duty** — Travel, new food, galleries, and museums — photos on [Instagram](https://www.instagram.com/ken_wuuuuuu/) and [X](https://x.com/kenwuuuu). Chess, poker, basketball, anime, and manga. JoJo Part 7 is the favorite.
