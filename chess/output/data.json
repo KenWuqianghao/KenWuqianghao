@@ -1,0 +1,288 @@
+{
+ "generated": "2026-09-07T00:52:27.750501+00:00",
+ "ratings": {
+  "title": "Chess ratings",
+  "subtitle": "updated 2026-09-07",
+  "lichess": [
+   [
+    "Bullet",
+    1759,
+    "top 36%"
+   ],
+   [
+    "Blitz",
+    1916,
+    "top 14%"
+   ],
+   [
+    "Rapid",
+    1738,
+    "provisional"
+   ],
+   [
+    "Puzzles",
+    2009,
+    ""
+   ]
+  ],
+  "chesscom": [
+   [
+    "Bullet",
+    1229,
+    "peak 1,250"
+   ],
+   [
+    "Blitz",
+    1558,
+    "peak 1,620"
+   ],
+   [
+    "Rapid",
+    1218,
+    "peak 1,218"
+   ],
+   [
+    "Puzzles",
+    1917,
+    "peak"
+   ]
+  ],
+  "series_label": "Chess.com blitz rating, last 24 months",
+  "series": [
+   [
+    "2024-09",
+    1405
+   ],
+   [
+    "2024-10",
+    1375
+   ],
+   [
+    "2024-11",
+    1392
+   ],
+   [
+    "2024-12",
+    1356
+   ],
+   [
+    "2025-01",
+    1400
+   ],
+   [
+    "2025-02",
+    1504
+   ],
+   [
+    "2025-03",
+    1474
+   ],
+   [
+    "2025-04",
+    1436
+   ],
+   [
+    "2025-05",
+    1482
+   ],
+   [
+    "2025-06",
+    1505
+   ],
+   [
+    "2025-07",
+    1505
+   ],
+   [
+    "2025-08",
+    1509
+   ],
+   [
+    "2025-09",
+    1501
+   ],
+   [
+    "2025-10",
+    1601
+   ],
+   [
+    "2025-11",
+    1545
+   ],
+   [
+    "2025-12",
+    1555
+   ],
+   [
+    "2026-01",
+    1612
+   ],
+   [
+    "2026-02",
+    1603
+   ],
+   [
+    "2026-03",
+    1538
+   ],
+   [
+    "2026-04",
+    1544
+   ],
+   [
+    "2026-05",
+    1553
+   ],
+   [
+    "2026-06",
+    1553
+   ],
+   [
+    "2026-07",
+    1553
+   ],
+   [
+    "2026-08",
+    1558
+   ]
+  ],
+  "footer": [
+   [
+    "games played",
+    "14,033"
+   ],
+   [
+    "hours on lichess",
+    "645"
+   ],
+   [
+    "chess.com score",
+    "53%"
+   ],
+   [
+    "avg accuracy",
+    "76%"
+   ]
+  ]
+ },
+ "openings": {
+  "white": [
+   [
+    "French Defense",
+    {
+     "win": 12,
+     "draw": 1,
+     "loss": 10
+    }
+   ],
+   [
+    "Sicilian Defense",
+    {
+     "win": 6,
+     "draw": 3,
+     "loss": 10
+    }
+   ],
+   [
+    "Caro Kann Defense",
+    {
+     "win": 5,
+     "draw": 2,
+     "loss": 10
+    }
+   ],
+   [
+    "Scandinavian Defense",
+    {
+     "win": 9,
+     "draw": 2,
+     "loss": 6
+    }
+   ],
+   [
+    "Giuoco Piano Game",
+    {
+     "win": 6,
+     "draw": 0,
+     "loss": 7
+    }
+   ]
+  ],
+  "black": [
+   [
+    "Giuoco Piano Game",
+    {
+     "win": 12,
+     "draw": 1,
+     "loss": 9
+    }
+   ],
+   [
+    "Nimzowitsch Larsen Attack",
+    {
+     "win": 11,
+     "draw": 0,
+     "loss": 2
+    }
+   ],
+   [
+    "Queen's Pawn Opening",
+    {
+     "win": 6,
+     "draw": 0,
+     "loss": 7
+    }
+   ],
+   [
+    "Englund Gambit",
+    {
+     "win": 4,
+     "draw": 1,
+     "loss": 7
+    }
+   ],
+   [
+    "Scotch Game",
+    {
+     "win": 4,
+     "draw": 0,
+     "loss": 8
+    }
+   ]
+  ]
+ },
+ "latest": {
+  "fen": "8/6R1/2pR3p/2P4k/1P3N2/2P3Pb/7P/6K1 b - - 0 35",
+  "flip": false,
+  "last_move": [
+   "d3",
+   "f4"
+  ],
+  "title": "Latest game",
+  "platform": "chess.com",
+  "when": "Aug 26, 2026",
+  "result": "Won by checkmate",
+  "opening": "Giuoco Piano Game Main Line",
+  "lines": [
+   [
+    "Opponent",
+    "MVA18 (1535)"
+   ],
+   [
+    "Me",
+    "White \u00b7 1558"
+   ],
+   [
+    "Time control",
+    "3+0 \u00b7 35 moves"
+   ],
+   [
+    "Accuracy",
+    "79.1%"
+   ]
+  ],
+  "moves_tail": "\u2026 Kh5 Rg7 h6 Nd3 f4 Nxf4#",
+  "url": "https://www.chess.com/game/live/173546285912",
+  "subtitle": "chess.com \u00b7 Aug 26, 2026"
+ }
+}

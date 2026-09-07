@@ -181,17 +181,16 @@ Work authorized in 🇨🇦 Canada · 🇪🇺 EU · 🇨🇳 China
 ### Chess
 
 <div align="center">
-
-<a href="https://lichess.org/@/KenWuu"><img src="https://lichess-readme.vercel.app/?"></a> &nbsp;&nbsp; <a href="https://www.chess.com/member/kenwuu"><img src="https://chess-com-read-me.vercel.app/?"></a>
-
+<a href="https://lichess.org/@/KenWuu"><img src="https://raw.githubusercontent.com/kenwuqianghao/kenwuqianghao/main/chess/output/ratings.svg" width="47%" alt="Chess ratings" /></a>
+<a href="https://www.chess.com/member/kenwuu"><img src="https://raw.githubusercontent.com/kenwuqianghao/kenwuqianghao/main/chess/output/openings.svg" width="47%" alt="Opening repertoire" /></a>
 </div>
 
-<br>
+<div align="center">
+<img src="https://raw.githubusercontent.com/kenwuqianghao/kenwuqianghao/main/chess/output/latest-game.svg" width="47%" alt="Latest game" />
+</div>
 
 <div align="center">
-<a href="https://lichess.org/@/KenWuu"><img src="https://lichess-game-readme.vercel.app/?" alt="Current Lichess Game" /></a>
-&nbsp;&nbsp;
-<a href="https://www.chess.com/member/kenwuu"><img src="https://chess-com-game-readme.vercel.app/?" alt="Current Chess.com Game" /></a>
+<sub>Cards are rendered daily by <a href="chess/">my own zero-dependency SVG pipeline</a>: a pure-Python SAN replayer validated against thousands of real games, plus hand-drawn charts and pieces.</sub>
 </div>
 
 ---

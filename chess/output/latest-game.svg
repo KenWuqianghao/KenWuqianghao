@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="308" viewBox="0 0 495 308" role="img" aria-label="Latest game">
+<rect x="0.5" y="0.5" width="494" height="307" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="20.0" y="30.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#e6edf3" text-anchor="start">Latest game</text>
+<text x="475.0" y="30.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#6e7681" text-anchor="end">chess.com · Aug 26, 2026</text>
+<line x1="20" y1="42" x2="475" y2="42" stroke="#30363d"/>
+<rect x="18" y="54" width="236" height="236" rx="4" fill="#30363d"/>
+<rect x="20.0" y="259.0" width="29.00" height="29.00" fill="#3b4352"/>
+<rect x="20.0" y="230.0" width="29.00" height="29.00" fill="#7f8a9c"/>
+<rect x="20.0" y="201.0" width="29.00" height="29.00" fill="#3b4352"/>
+<rect x="20.0" y="172.0" width="29.00" height="29.00" fill="#7f8a9c"/>
+<rect x="20.0" y="143.0" width="29.00" height="29.00" fill="#3b4352"/>
+<rect x="20.0" y="114.0" width="29.00" height="29.00" fill="#7f8a9c"/>
+<rect x="20.0" y="85.0" width="29.00" height="29.00" fill="#3b4352"/>
+<rect x="20.0" y="56.0" width="29.00" height="29.00" fill="#7f8a9c"/>
+<rect x="49.0" y="259.0" width="29.00" height="29.00" fill="#7f8a9c"/>
+<rect x="49.0" y="230.0" width="29.00" height="29.00" fill="#3b4352"/>
+<rect x="49.0" y="201.0" width="29.00" height="29.00" fill="#7f8a9c"/>
+<rect x="49.0" y="172.0" width="29.00" height="29.00" fill="#3b4352"/>
+<g transform="translate(50.5 173.2) scale(0.2610)" fill="#f4f4f2" stroke="#1c2028" stroke-width="4" stroke-linejoin="round"><path d="M50 17a13 13 0 1 0 0.01 0Z"/><path d="M50 42C38 46 35 58 40 70H60C65 58 62 46 50 42Z"/><path d="M31 74H69V85H31Z"/></g>
+<rect x="49.0" y="143.0" width="29.00" height="29.00" fill="#7f8a9c"/>
+<rect x="49.0" y="114.0" width="29.00" height="29.00" fill="#3b4352"/>
+<rect x="49.0" y="85.0" width="29.00" height="29.00" fill="#7f8a9c"/>
+<rect x="49.0" y="56.0" width="29.00" height="29.00" fill="#3b4352"/>
+<rect x="78.0" y="259.0" width="29.00" height="29.00" fill="#3b4352"/>
+<rect x="78.0" y="230.0" width="29.00" height="29.00" fill="#7f8a9c"/>
+<rect x="78.0" y="201.0" width="29.00" height="29.00" fill="#3b4352"/>
+<g transform="translate(79.5 202.2) scale(0.2610)" fill="#f4f4f2" stroke="#1c2028" stroke-width="4" stroke-linejoin="round"><path d="M50 17a13 13 0 1 0 0.01 0Z"/><path d="M50 42C38 46 35 58 40 70H60C65 58 62 46 50 42Z"/><path d="M31 74H69V85H31Z"/></g>
+<rect x="78.0" y="172.0" width="29.00" height="29.00" fill="#7f8a9c"/>
+<rect x="78.0" y="143.0" width="29.00" height="29.00" fill="#3b4352"/>
+<g transform="translate(79.5 144.2) scale(0.2610)" fill="#f4f4f2" stroke="#1c2028" stroke-width="4" stroke-linejoin="round"><path d="M50 17a13 13 0 1 0 0.01 0Z"/><path d="M50 42C38 46 35 58 40 70H60C65 58 62 46 50 42Z"/><path d="M31 74H69V85H31Z"/></g>
+<rect x="78.0" y="114.0" width="29.00" height="29.00" fill="#7f8a9c"/>
+<g transform="translate(79.5 115.2) scale(0.2610)" fill="#1c2028" stroke="#c5cad3" stroke-width="4" stroke-linejoin="round"><path d="M50 17a13 13 0 1 0 0.01 0Z"/><path d="M50 42C38 46 35 58 40 70H60C65 58 62 46 50 42Z"/><path d="M31 74H69V85H31Z"/></g>
+<rect x="78.0" y="85.0" width="29.00" height="29.00" fill="#3b4352"/>
+<rect x="78.0" y="56.0" width="29.00" height="29.00" fill="#7f8a9c"/>
+<rect x="107.0" y="259.0" width="29.00" height="29.00" fill="#7f8a9c"/>
+<rect x="107.0" y="230.0" width="29.00" height="29.00" fill="#3b4352"/>
+<rect x="107.0" y="201.0" width="29.00" height="29.00" fill="#7f8a9c"/>
+<rect x="107.0" y="201.0" width="29.00" height="29.00" fill="#E8567C" fill-opacity="0.45"/>
+<rect x="107.0" y="172.0" width="29.00" height="29.00" fill="#3b4352"/>
+<rect x="107.0" y="143.0" width="29.00" height="29.00" fill="#7f8a9c"/>
+<rect x="107.0" y="114.0" width="29.00" height="29.00" fill="#3b4352"/>
+<g transform="translate(108.5 115.2) scale(0.2610)" fill="#f4f4f2" stroke="#1c2028" stroke-width="4" stroke-linejoin="round"><path d="M30 24H40V33H46V24H54V33H60V24H70V44H30Z"/><path d="M36 44H64V74H36Z"/><path d="M30 74H70V85H30Z"/></g>
+<rect x="107.0" y="85.0" width="29.00" height="29.00" fill="#7f8a9c"/>
+<rect x="107.0" y="56.0" width="29.00" height="29.00" fill="#3b4352"/>
+<rect x="136.0" y="259.0" width="29.00" height="29.00" fill="#3b4352"/>
+<rect x="136.0" y="230.0" width="29.00" height="29.00" fill="#7f8a9c"/>
+<rect x="136.0" y="201.0" width="29.00" height="29.00" fill="#3b4352"/>
+<rect x="136.0" y="172.0" width="29.00" height="29.00" fill="#7f8a9c"/>
+<rect x="136.0" y="143.0" width="29.00" height="29.00" fill="#3b4352"/>
+<rect x="136.0" y="114.0" width="29.00" height="29.00" fill="#7f8a9c"/>
+<rect x="136.0" y="85.0" width="29.00" height="29.00" fill="#3b4352"/>
+<rect x="136.0" y="56.0" width="29.00" height="29.00" fill="#7f8a9c"/>
+<rect x="165.0" y="259.0" width="29.00" height="29.00" fill="#7f8a9c"/>
+<rect x="165.0" y="230.0" width="29.00" height="29.00" fill="#3b4352"/>
+<rect x="165.0" y="201.0" width="29.00" height="29.00" fill="#7f8a9c"/>
+<rect x="165.0" y="172.0" width="29.00" height="29.00" fill="#3b4352"/>
+<rect x="165.0" y="172.0" width="29.00" height="29.00" fill="#E8567C" fill-opacity="0.45"/>
+<g transform="translate(166.4 173.2) scale(0.2610)" fill="#f4f4f2" stroke="#1c2028" stroke-width="4" stroke-linejoin="round"><path d="M31 85H72V77C72 62 66 52 60 41C58 35 62 28 59 19L51 26L45 19C35 26 29 39 28 50L38 52L33 63C31 70 31 78 31 85Z"/><circle cx="52" cy="34" r="2.6" fill="#1c2028" stroke="none"/></g>
+<rect x="165.0" y="143.0" width="29.00" height="29.00" fill="#7f8a9c"/>
+<rect x="165.0" y="114.0" width="29.00" height="29.00" fill="#3b4352"/>
+<rect x="165.0" y="85.0" width="29.00" height="29.00" fill="#7f8a9c"/>
+<rect x="165.0" y="56.0" width="29.00" height="29.00" fill="#3b4352"/>
+<rect x="194.0" y="259.0" width="29.00" height="29.00" fill="#3b4352"/>
+<g transform="translate(195.4 260.2) scale(0.2610)" fill="#f4f4f2" stroke="#1c2028" stroke-width="4" stroke-linejoin="round"><path d="M47 12H53V20H61V26H53V34H47V26H39V20H47Z"/><path d="M36 75L32 48C32 40 44 36 50 44C56 36 68 40 68 48L64 75Z"/><path d="M29 75H71V85H29Z"/></g>
+<rect x="194.0" y="230.0" width="29.00" height="29.00" fill="#7f8a9c"/>
+<rect x="194.0" y="201.0" width="29.00" height="29.00" fill="#3b4352"/>
+<g transform="translate(195.4 202.2) scale(0.2610)" fill="#f4f4f2" stroke="#1c2028" stroke-width="4" stroke-linejoin="round"><path d="M50 17a13 13 0 1 0 0.01 0Z"/><path d="M50 42C38 46 35 58 40 70H60C65 58 62 46 50 42Z"/><path d="M31 74H69V85H31Z"/></g>
+<rect x="194.0" y="172.0" width="29.00" height="29.00" fill="#7f8a9c"/>
+<rect x="194.0" y="143.0" width="29.00" height="29.00" fill="#3b4352"/>
+<rect x="194.0" y="114.0" width="29.00" height="29.00" fill="#7f8a9c"/>
+<rect x="194.0" y="85.0" width="29.00" height="29.00" fill="#3b4352"/>
+<g transform="translate(195.4 86.2) scale(0.2610)" fill="#f4f4f2" stroke="#1c2028" stroke-width="4" stroke-linejoin="round"><path d="M30 24H40V33H46V24H54V33H60V24H70V44H30Z"/><path d="M36 44H64V74H36Z"/><path d="M30 74H70V85H30Z"/></g>
+<rect x="194.0" y="56.0" width="29.00" height="29.00" fill="#7f8a9c"/>
+<rect x="223.0" y="259.0" width="29.00" height="29.00" fill="#7f8a9c"/>
+<rect x="223.0" y="230.0" width="29.00" height="29.00" fill="#3b4352"/>
+<g transform="translate(224.4 231.2) scale(0.2610)" fill="#f4f4f2" stroke="#1c2028" stroke-width="4" stroke-linejoin="round"><path d="M50 17a13 13 0 1 0 0.01 0Z"/><path d="M50 42C38 46 35 58 40 70H60C65 58 62 46 50 42Z"/><path d="M31 74H69V85H31Z"/></g>
+<rect x="223.0" y="201.0" width="29.00" height="29.00" fill="#7f8a9c"/>
+<g transform="translate(224.4 202.2) scale(0.2610)" fill="#1c2028" stroke="#c5cad3" stroke-width="4" stroke-linejoin="round"><path d="M50 12a6 6 0 1 0 0.01 0Z"/><path d="M50 22C33 39 34 57 42 67H58C66 57 67 39 50 22Z"/><path d="M40 67H60V75H40Z"/><path d="M31 75H69V85H31Z"/><path d="M50 34V52" stroke="#c5cad3" stroke-width="3" fill="none"/></g>
+<rect x="223.0" y="172.0" width="29.00" height="29.00" fill="#3b4352"/>
+<rect x="223.0" y="143.0" width="29.00" height="29.00" fill="#7f8a9c"/>
+<g transform="translate(224.4 144.2) scale(0.2610)" fill="#1c2028" stroke="#c5cad3" stroke-width="4" stroke-linejoin="round"><path d="M47 12H53V20H61V26H53V34H47V26H39V20H47Z"/><path d="M36 75L32 48C32 40 44 36 50 44C56 36 68 40 68 48L64 75Z"/><path d="M29 75H71V85H29Z"/></g>
+<rect x="223.0" y="114.0" width="29.00" height="29.00" fill="#3b4352"/>
+<g transform="translate(224.4 115.2) scale(0.2610)" fill="#1c2028" stroke="#c5cad3" stroke-width="4" stroke-linejoin="round"><path d="M50 17a13 13 0 1 0 0.01 0Z"/><path d="M50 42C38 46 35 58 40 70H60C65 58 62 46 50 42Z"/><path d="M31 74H69V85H31Z"/></g>
+<rect x="223.0" y="85.0" width="29.00" height="29.00" fill="#7f8a9c"/>
+<rect x="223.0" y="56.0" width="29.00" height="29.00" fill="#3b4352"/>
+<text x="46.0" y="285.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="7" font-weight="400" fill="#9da7b3" text-anchor="end">a</text>
+<text x="22.0" y="65.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="7" font-weight="400" fill="#9da7b3" text-anchor="start">8</text>
+<text x="75.0" y="285.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="7" font-weight="400" fill="#9da7b3" text-anchor="end">b</text>
+<text x="22.0" y="94.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="7" font-weight="400" fill="#9da7b3" text-anchor="start">7</text>
+<text x="104.0" y="285.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="7" font-weight="400" fill="#9da7b3" text-anchor="end">c</text>
+<text x="22.0" y="123.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="7" font-weight="400" fill="#9da7b3" text-anchor="start">6</text>
+<text x="133.0" y="285.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="7" font-weight="400" fill="#9da7b3" text-anchor="end">d</text>
+<text x="22.0" y="152.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="7" font-weight="400" fill="#9da7b3" text-anchor="start">5</text>
+<text x="162.0" y="285.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="7" font-weight="400" fill="#9da7b3" text-anchor="end">e</text>
+<text x="22.0" y="181.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="7" font-weight="400" fill="#9da7b3" text-anchor="start">4</text>
+<text x="191.0" y="285.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="7" font-weight="400" fill="#9da7b3" text-anchor="end">f</text>
+<text x="22.0" y="210.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="7" font-weight="400" fill="#9da7b3" text-anchor="start">3</text>
+<text x="220.0" y="285.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="7" font-weight="400" fill="#9da7b3" text-anchor="end">g</text>
+<text x="22.0" y="239.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="7" font-weight="400" fill="#9da7b3" text-anchor="start">2</text>
+<text x="249.0" y="285.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="7" font-weight="400" fill="#9da7b3" text-anchor="end">h</text>
+<text x="22.0" y="268.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="7" font-weight="400" fill="#9da7b3" text-anchor="start">1</text>
+<text x="274.0" y="68.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e6edf3" text-anchor="start">Won by checkmate</text>
+<text x="274.0" y="88.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#9da7b3" text-anchor="start">Giuoco Piano Game Main Line</text>
+<text x="274.0" y="114.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="9" font-weight="600" fill="#6e7681" text-anchor="start" letter-spacing="1">OPPONENT</text>
+<text x="274.0" y="129.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#e6edf3" text-anchor="start">MVA18 (1535)</text>
+<text x="274.0" y="150.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="9" font-weight="600" fill="#6e7681" text-anchor="start" letter-spacing="1">ME</text>
+<text x="274.0" y="165.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#e6edf3" text-anchor="start">White · 1558</text>
+<text x="274.0" y="186.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="9" font-weight="600" fill="#6e7681" text-anchor="start" letter-spacing="1">TIME CONTROL</text>
+<text x="274.0" y="201.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#e6edf3" text-anchor="start">3+0 · 35 moves</text>
+<text x="274.0" y="222.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="9" font-weight="600" fill="#6e7681" text-anchor="start" letter-spacing="1">ACCURACY</text>
+<text x="274.0" y="237.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#e6edf3" text-anchor="start">79.1%</text>
+<text x="274.0" y="284.0" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="9" font-weight="400" fill="#6e7681" text-anchor="start">… Kh5 Rg7 h6 Nd3 f4 Nxf4#</text>
+</svg>
