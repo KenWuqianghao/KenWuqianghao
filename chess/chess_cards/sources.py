@@ -118,3 +118,7 @@ def chesscom_games(f: Fetcher, user: str, months: int | None = None) -> list[dic
         games.extend(f.get_json(u, max_age=max_age)["games"])
     games.sort(key=lambda g: g.get("end_time", 0))
     return games
+
+
+def lichess_daily_puzzle(f: Fetcher) -> dict:
+    return f.get_json(f"{LICHESS}/api/puzzle/daily", max_age=0)

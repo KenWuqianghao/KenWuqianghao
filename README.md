@@ -187,10 +187,11 @@ Work authorized in 🇨🇦 Canada · 🇪🇺 EU · 🇨🇳 China
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/kenwuqianghao/kenwuqianghao/main/chess/output/latest-game.svg" width="47%" alt="Latest game" />
+<a href="https://lichess.org/training/daily"><img src="https://raw.githubusercontent.com/kenwuqianghao/kenwuqianghao/main/chess/output/puzzle.svg" width="47%" alt="Lichess daily puzzle" /></a>
 </div>
 
 <div align="center">
-<sub>Cards are rendered daily by <a href="chess/">my own zero-dependency SVG pipeline</a>: a pure-Python SAN replayer validated against thousands of real games, plus hand-drawn charts and pieces.</sub>
+<sub>Cards are rendered daily by <a href="chess/">my own zero-dependency Python pipeline</a>: a SAN replayer validated against thousands of real games, a move generator that passes perft, a forced-mate solver checked against Lichess puzzles, and hand-drawn charts and pieces.</sub>
 </div>
 
 ---

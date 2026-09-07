@@ -256,3 +256,30 @@ def board_card(d: dict) -> str:
     if moves:
         body.append(_t(x0, by + size - 4, moves, size=9, fill=TEXT_3, mono=True))
     return _frame(by + size + 20, d.get("title", "Latest game"), d.get("subtitle", ""), "\n".join(body))
+
+
+# -------------------------------------------------------------- puzzle card
+def puzzle_card(d: dict) -> str:
+    """d = {fen, flip, last_move, side, goal, lines: [(label, value)], themes: [str], solver: str, subtitle}"""
+    size = 232
+    bx, by = 20, 56
+    body = [board_svg(d["fen"], bx, by, size, d.get("flip", False), d.get("last_move"))]
+    x0 = bx + size + 22
+    y = by + 12
+    body.append(_t(x0, y, d.get("side", ""), size=15, weight=600))
+    y += 20
+    body.append(_t(x0, y, d.get("goal", ""), size=12, fill=ACCENT, weight=600))
+    y += 26
+    for label, value in d.get("lines", []):
+        body.append(_t(x0, y, label.upper(), size=9, fill=TEXT_3, weight=600, extra=' letter-spacing="1"'))
+        body.append(_t(x0, y + 15, value, size=12, fill=TEXT))
+        y += 36
+    tx, ty = x0, y + 2
+    for t in (d.get("themes") or [])[:4]:
+        w = 6.2 * len(t) + 14
+        if tx + w > WIDTH - 20:
+            break
+        body.append(f'<rect x="{tx:.1f}" y="{ty - 11}" width="{w:.1f}" height="16" rx="8" fill="{CARD}" stroke="{BORDER}"/>')
+        body.append(_t(tx + w / 2, ty + 1, t, size=9, fill=TEXT_2, anchor="middle"))
+        tx += w + 6
+    return _frame(by + size + 20, d.get("title", "Daily puzzle"), d.get("subtitle", ""), "\n".join(body))

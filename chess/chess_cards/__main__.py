@@ -6,9 +6,11 @@ import datetime as dt
 import json
 import os
 import sys
+import time
 
 from . import analyze, render, sources
-from .san import IllegalMove, pgn_moves, replay, sq_name
+from .san import Board, IllegalMove, pgn_moves, replay, sq_name
+from .search import Budget, mate_in
 
 RESULT_WORDS = {
     "mate": "by checkmate", "resign": "by resignation", "outoftime": "on time",
@@ -86,13 +88,58 @@ def build(lichess_user: str, chesscom_user: str, fetcher: sources.Fetcher) -> di
     latest = latest_game(fetcher, lichess_user, chesscom_user, games)
     latest["subtitle"] = f"{latest['platform']} · {latest['when']}"
 
-    data = {"generated": now.isoformat(), "ratings": ratings, "openings": {
+    puzzle = daily_puzzle(fetcher)
+    puzzle["subtitle"] = f"lichess.org/training/{puzzle['id']} · {stamp}"
+
+    data = {"generated": now.isoformat(), "puzzle": puzzle, "ratings": ratings, "openings": {
         k: [(n, vars(w)) for n, w in v] for k, v in ob.items()}, "latest": latest}
     return {
         "ratings.svg": render.ratings_card(ratings),
         "openings.svg": render.openings_card(openings),
         "latest-game.svg": render.board_card(latest),
+        "puzzle.svg": render.puzzle_card(puzzle),
         "data.json": json.dumps(data, indent=1, default=str),
+    }
+
+
+def daily_puzzle(fetcher) -> dict:
+    """Lichess's daily puzzle as a puzzle-card payload, with our own mate search run on it."""
+    d = sources.lichess_daily_puzzle(fetcher)
+    p = d["puzzle"]
+    board = Board.from_fen(p["fen"]) if p.get("fen") else replay(d["game"]["pgn"])
+    white = board.white_to_move
+    mate_n = next((int(t[-1]) for t in p.get("themes", []) if t.startswith("mateIn") and t[-1].isdigit()), None)
+    goal = f"Mate in {mate_n}" if mate_n else "Find the best move"
+    solver = ""
+    if mate_n and mate_n <= 3:
+        budget = Budget(seconds=30)
+        t0 = time.monotonic()
+        try:
+            found = mate_in(board, mate_n, budget)
+            elapsed = time.monotonic() - t0
+            if found is not None:
+                agrees = found.uci == p["solution"][0]
+                took = f"{elapsed * 1000:.0f} ms" if elapsed < 1 else f"{elapsed:.1f} s"
+                solver = (f"forced mate found in {took} · {budget.nodes:,} nodes"
+                          + ("" if agrees else " · alternative mate"))
+        except TimeoutError:
+            solver = f"no mate within 30 s budget · {budget.nodes:,} nodes"
+    last = p.get("lastMove")
+    last_move = (last[:2], last[2:4]) if last else None
+    players = d["game"].get("players", [])
+    names = " vs ".join(f"{pl.get('title', '')} {pl['name']}".strip() for pl in players)
+    if len(names) > 30:
+        names = names[:29] + "…"
+    themes = [t for t in p.get("themes", []) if t not in ("short", "long", "oneMove", "veryLong")]
+    return {
+        "id": p["id"], "fen": board.fen(), "flip": not white, "last_move": last_move,
+        "title": "Lichess daily puzzle",
+        "side": ("White" if white else "Black") + " to play",
+        "goal": goal,
+        "lines": [("Puzzle rating", f"{p.get('rating', 0):,} · {p.get('plays', 0):,} plays"),
+                  ("From the game", names)]
+                 + ([("My solver (pure Python)", solver)] if solver else []),
+        "themes": themes, "url": f"https://lichess.org/training/{p['id']}",
     }
 
 

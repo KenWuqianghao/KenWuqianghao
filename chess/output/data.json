@@ -1,5 +1,39 @@
 {
- "generated": "2026-09-07T00:52:27.750501+00:00",
+ "generated": "2026-09-07T10:22:52.462566+00:00",
+ "puzzle": {
+  "id": "3ngI1",
+  "fen": "5Bk1/1pp3pp/p1p2p2/7q/4P1b1/PNN2PK1/1PPR1P2/3R4 b - - 1 1",
+  "flip": true,
+  "last_move": [
+   "h2",
+   "g3"
+  ],
+  "title": "Lichess daily puzzle",
+  "side": "Black to play",
+  "goal": "Mate in 2",
+  "lines": [
+   [
+    "Puzzle rating",
+    "1,744 \u00b7 62,694 plays"
+   ],
+   [
+    "From the game",
+    "JSK89 vs FM Doppelbauer01"
+   ],
+   [
+    "My solver (pure Python)",
+    "forced mate found in 4 ms \u00b7 7 nodes"
+   ]
+  ],
+  "themes": [
+   "mateIn2",
+   "epauletteMate",
+   "master",
+   "middlegame"
+  ],
+  "url": "https://lichess.org/training/3ngI1",
+  "subtitle": "lichess.org/training/3ngI1 \u00b7 2026-09-07"
+ },
  "ratings": {
   "title": "Chess ratings",
   "subtitle": "updated 2026-09-07",
